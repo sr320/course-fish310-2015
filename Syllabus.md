@@ -1,4 +1,5 @@
-# FISH310: Biology of Shellfishes 
+# SYLLABUS 
+## FISH310: Biology of Shellfishes 
 
 Contact: https://catalyst.uw.edu/umail/form/sr320/2736			
 twitter: @UW_FISH310
@@ -49,15 +50,49 @@ Assignments turned in late will be penalized (at least 10%) for each day they ar
 
 Class Response Activity: Tophat will be used in class for assessment. The platform will be used for weekly quizzes given each Monday.
 
-The two exams will consist of:
-• Multiple choice 
-• Short answer (problems, definitions, compare-and-contrast, etc.) 
-• Short essay
-• Sketches / drawings
+The two exams will consist of:		
+• Multiple choice 	
+• Short answer (problems, definitions, compare-and-contrast, etc.) 	
+• Short essay	
+• Sketches / drawings			
 
 The final exam will be comprehensive
 
 ---
+## LECTURE SCHEDULE
+Date |	Lecture |	notes | week
+-------|-------------|---------|
+ 3/30	| Intro	 |  | **one**
+4/1	 | Environment and Physiology	 | Chapter 1
+4/3	 | Invertebrate Classification	 | Chapter 2
+4/6	 | Cnidaria	 | Chapter 6  | **two**
+4/7	 | Cnidaria -  | Chapter 6
+4/10	 | Cnidaria - Paper Discussion	 | Chapter 6 
+4/13	 | Protozoa	 | Chapter 3 (L6)   | **three**
+4/15	 | Porifera	 | Chapter 4 
+4/17	 | Mollusca	 | Chapter 12
+4/20	 | Mollusca	 | Chapter 12  | **four**
+4/22	 | Mollusca	 | Chapter 12 
+4/24	 | Mollusca	 | Chapter 12 
+4/27	 | Mollusca Freshwater JH	 | Chapter 12  | **five**
+4/29	 | Review	 
+5/1	 | Exam 1	 
+5/4	 | Arthropoda | 	Chapter 14  | **six**
+5/6	 | Arthropoda	 | Chapter 14 
+5/8	 | Arthropoda	 | Chapter 14  
+5/11	 | Arthropoda	 | Chapter 14  
+5/13	 | Arthropoda	 | Chapter 14  
+5/15	 | Echinoderm | 	 
+5/18	 | Echinoderm	 |  
+5/20	 | Review	 |  
+5/23	 | Exam	  | 
+5/26	 | Holiday	  | 
+5/28	 | Hemichordates	  | 
+5/30	 | Genetics	 |  
+6/2	 | Conservation	 |  
+6/4	 | Case Studies	  | 
+6/6	 | Review	  | 
+
 
 ## READINGS
 
