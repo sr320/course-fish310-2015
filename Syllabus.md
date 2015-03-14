@@ -1,7 +1,7 @@
 # SYLLABUS 
 ## FISH310: Biology of Shellfishes 
 
-Contact: https://catalyst.uw.edu/umail/form/sr320/2736			
+Contact: <https://catalyst.uw.edu/umail/form/sr320/2736>			
 twitter: @UW_FISH310
 
 ----
@@ -16,14 +16,13 @@ Learning objectives:
 To develop skills and acquire knowledge to be able to understand the taxonomy, life history, physiology and ecology of selected invertebrate taxa. You will learn about the interrelationship between different species and their role in the natural environment.
 
 Skill objectives: 		
-• Oral scientific communication      
 • Written scientific communication       
 • Critical thinking and problem solving 			
 • Collaborating with other students 			
 • Gathering, reading, and sharing on current events related to invertebrate biology 			
 • Participation in discussions			
 
-General Behavior: 
+General Behavior:      
 It is expected that student respect their peers and instructors. This includes but not limited to 			
 • Refraining from distracting behavior in class (texting, checking Facebook). 	
 • Respecting time and effort of all instructors. 			
@@ -39,9 +38,9 @@ Exam 2	| 15
 Quizzes	| 7
 Class Response | 	10
 Final Exam | 	20
-Practicals / WS	| 20
-Lab Report  |	8
-Species Report |	5
+Lab Practicals  | 18
+Lab Worksheets | 5
+Lab Report  |	10
 
 --- 
 
