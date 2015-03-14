@@ -43,7 +43,7 @@ Practicals / WS	| 20
 Lab Report  |	8
 Species Report |	5
 
-
+--- 
 
 Late Policy: 
 Assignments turned in late will be penalized (at least 10%) for each day they are late unless prior arrangements have been made.
@@ -59,6 +59,7 @@ The two exams will consist of:
 The final exam will be comprehensive
 
 ---
+
 ## LECTURE SCHEDULE
 Date |	Lecture |	notes | week
 -------|-------------|---------|
