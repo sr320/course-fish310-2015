@@ -61,7 +61,7 @@ The final exam will be comprehensive
 
 ## SCHEDULE
 Date |	Lecture |	notes | lab | week
--------|-------------|---------|---------|
+-------|-------------|---------|---------|-----------
  3/30	| Intro	 |  | _Lab Intro_ | **one**
 4/1	 | Environment and Physiology	 | Chapter 1 | _Quarter Project Info_
 4/3	 | Invertebrate Classification	 | Chapter 2
@@ -76,7 +76,7 @@ Date |	Lecture |	notes | lab | week
 4/24	 | Mollusca	 | Chapter 12 
 4/27	 | Mollusca Freshwater  | Chapter 12 | _QP_ | **five**
 4/29	 | Review	 | | _Mollusc 3: Gastropods / Cephalopods_
-5/1	 | Exam 1	 
+5/1	 | Exam 1	 |
 5/4	 | Arthropoda | 	Chapter 14 | _Lab Midterm Exam_ | **six**
 5/6	 | Arthropoda	 | Chapter 14 | _Intro to Arthropoda_
 5/8	 | Arthropoda	 | Chapter 14  
