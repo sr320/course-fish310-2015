@@ -59,39 +59,39 @@ The final exam will be comprehensive
 
 ---
 
-## LECTURE SCHEDULE
-Date |	Lecture |	notes | week
--------|-------------|---------|
- 3/30	| Intro	 |  | **one**
-4/1	 | Environment and Physiology	 | Chapter 1
+## SCHEDULE
+Date |	Lecture |	notes | lab | week
+-------|-------------|---------|---------|
+ 3/30	| Intro	 |  | lab | **one**
+4/1	 | Environment and Physiology	 | Chapter 1 | lab
 4/3	 | Invertebrate Classification	 | Chapter 2
-4/6	 | Cnidaria	 | Chapter 6  | **two**
-4/7	 | Cnidaria -  | Chapter 6
+4/6	 | Cnidaria	 | Chapter 6 | lab | **two**
+4/7	 | Cnidaria -  | Chapter 6 | lab
 4/10	 | Cnidaria - Paper Discussion	 | Chapter 6 
-4/13	 | Protozoa	 | Chapter 3 (L6)   | **three**
-4/15	 | Porifera	 | Chapter 4 
+4/13	 | Protozoa	 | Chapter 3 (L6)   | lab | **three**
+4/15	 | Porifera	 | Chapter 4 | lab
 4/17	 | Mollusca	 | Chapter 12
-4/20	 | Mollusca	 | Chapter 12  | **four**
-4/22	 | Mollusca	 | Chapter 12 
+4/20	 | Mollusca	 | Chapter 12 | lab | **four**
+4/22	 | Mollusca	 | Chapter 12 | lab
 4/24	 | Mollusca	 | Chapter 12 
-4/27	 | Mollusca Freshwater JH	 | Chapter 12  | **five**
-4/29	 | Review	 
+4/27	 | Mollusca Freshwater JH	 | Chapter 12 | lab | **five**
+4/29	 | Review	 | | lab
 5/1	 | Exam 1	 
-5/4	 | Arthropoda | 	Chapter 14  | **six**
-5/6	 | Arthropoda	 | Chapter 14 
+5/4	 | Arthropoda | 	Chapter 14 | lab | **six**
+5/6	 | Arthropoda	 | Chapter 14 | lab
 5/8	 | Arthropoda	 | Chapter 14  
-5/11	 | Arthropoda	 | Chapter 14  
-5/13	 | Arthropoda	 | Chapter 14  
+5/11	 | Arthropoda	 | Chapter 14  | lab | **seven**
+5/13	 | Arthropoda	 | Chapter 14  | lab
 5/15	 | Echinoderm | 	 
-5/18	 | Echinoderm	 |  
-5/20	 | Review	 |  
-5/23	 | Exam	  | 
-5/26	 | Holiday	  | 
-5/28	 | Hemichordates	  | 
-5/30	 | Genetics	 |  
-6/2	 | Conservation	 |  
-6/4	 | Case Studies	  | 
-6/6	 | Review	  | 
+5/18	 | Echinoderm	 |  | lab | **eight**
+5/20	 | Review	 |  | lab
+5/22	 | Exam	  | 
+5/25	 | _Holiday_	  | | lab | **nine**
+5/27	 | Hemichordates	  | | lab
+5/29	 | Genetics	 |  
+6/1	 | Conservation	 |  | lab | **ten**
+6/3	 | Case Studies	  | | lab
+6/5	 | Review	  | 
 
 
 ## READINGS
