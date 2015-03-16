@@ -10,13 +10,13 @@ Office Hours by Appointment
 
 Attendance: If you cannot attend the lab session because of illness or emergency, please email before class.  There are two field trips for this lab course.  One field trip takes place during regularly scheduled lab time, but will be a late return. One weekend field trip (May 17) is scheduled.
 
-Grades: The lab part of the course is worth 33% of your total grade.
+Grades: The lab part of the course is worth 33% {%confirm%} of your total grade.
 
 Assignment	 | Percent
 -------------------|----------
-Lab Worksheets/Practicals 	| 20%
-Lab Report  |	  8%
-Species Reports   |  5%
+Lab Worksheets/Practicals 	| xxx%
+Lab Report  |	  xx%
+
 
 **Lab reports:** You will write a lab report for the Ocean Acidification lab. The draft lab report (Introduction and Methods) is due on April 21/22. You will go through a peer review process (reviews due April 28/29). The reviews should include constructive comments on improving the report and a “grade” (Poor, Fair, Good, Very Good, or Excellent). The final lab report is due on May 12/13. All reports are due by midnight on the due date and must be turned in via the class website.
 

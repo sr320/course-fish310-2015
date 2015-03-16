@@ -62,35 +62,35 @@ The final exam will be comprehensive
 ## SCHEDULE
 Date |	Lecture |	notes | lab | week
 -------|-------------|---------|---------|
- 3/30	| Intro	 |  | lab | **one**
-4/1	 | Environment and Physiology	 | Chapter 1 | lab
+ 3/30	| Intro	 |  | _Lab Intro_ | **one**
+4/1	 | Environment and Physiology	 | Chapter 1 | _Quarter Project Info_
 4/3	 | Invertebrate Classification	 | Chapter 2
-4/6	 | Cnidaria	 | Chapter 6 | lab | **two**
+4/6	 | Cnidaria	 | Chapter 6 | _Intro to Cnidaria_ | **two**
 4/7	 | Cnidaria -  | Chapter 6 | lab
 4/10	 | Cnidaria - Paper Discussion	 | Chapter 6 
 4/13	 | Protozoa	 | Chapter 3 (L6)   | lab | **three**
 4/15	 | Porifera	 | Chapter 4 | lab
 4/17	 | Mollusca	 | Chapter 12
-4/20	 | Mollusca	 | Chapter 12 | lab | **four**
-4/22	 | Mollusca	 | Chapter 12 | lab
+4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
+4/22	 | Mollusca	 | Chapter 12 | _Mollusc 2: Bivalves_
 4/24	 | Mollusca	 | Chapter 12 
-4/27	 | Mollusca Freshwater JH	 | Chapter 12 | lab | **five**
-4/29	 | Review	 | | lab
+4/27	 | Mollusca Freshwater  | Chapter 12 | _QP_ | **five**
+4/29	 | Review	 | | _Mollusc 3: Gastropods / Cephalopods_
 5/1	 | Exam 1	 
-5/4	 | Arthropoda | 	Chapter 14 | lab | **six**
-5/6	 | Arthropoda	 | Chapter 14 | lab
+5/4	 | Arthropoda | 	Chapter 14 | _Lab Midterm Exam_ | **six**
+5/6	 | Arthropoda	 | Chapter 14 | _Intro to Arthropoda_
 5/8	 | Arthropoda	 | Chapter 14  
-5/11	 | Arthropoda	 | Chapter 14  | lab | **seven**
-5/13	 | Arthropoda	 | Chapter 14  | lab
+5/11	 | Arthropoda	 | Chapter 14  | _QP_ | **seven**
+5/13	 | Arthropoda	 | Chapter 14  | _Arthropod 2: Crustacean Development, Senses and More_
 5/15	 | Echinoderm | 	 
-5/18	 | Echinoderm	 |  | lab | **eight**
-5/20	 | Review	 |  | lab
+5/18	 | Echinoderm	 |  | Echinoderm | **eight**
+5/20	 | Review	 |  | _QP_
 5/22	 | Exam	  | 
-5/25	 | _Holiday_	  | | lab | **nine**
+5/25	 | _Holiday_	  | | _no lab_ | **nine**
 5/27	 | Hemichordates	  | | lab
 5/29	 | Genetics	 |  
-6/1	 | Conservation	 |  | lab | **ten**
-6/3	 | Case Studies	  | | lab
+6/1	 | Conservation	 |  | _Lab Final Exam_ | **ten**
+6/3	 | Case Studies	  | | _QP Presentations_
 6/5	 | Review	  | 
 
 
