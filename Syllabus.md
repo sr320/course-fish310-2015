@@ -74,7 +74,7 @@ Date |	Lecture |	notes | week
 4/20	 | Mollusca	 | Chapter 12  | **four**
 4/22	 | Mollusca	 | Chapter 12 
 4/24	 | Mollusca	 | Chapter 12 
-4/27	 | Mollusca Freshwater JH	 | Chapter 12  | **five**
+4/27	 | Mollusca  | Chapter 12  | **five**
 4/29	 | Review	 
 5/1	 | Exam 1	 
 5/4	 | Arthropoda | 	Chapter 14  | **six**

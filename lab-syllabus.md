@@ -18,11 +18,11 @@ Assignment	 | Percent
 -------------------|----------
 Lab Worksheets/Practicals 	| 20%
 Lab Report  |	  8%
-Species Reports   |  5%
+Heat Shock Presentation   |  5%
 
-**Lab reports:** You will write a lab report for the Heat Stress lab. The draft lab report (Introduction and Methods) is due on April 21/22. You will go through a peer review process (reviews due April 28/29). The reviews should include constructive comments on improving the report and a “grade” (Poor, Fair, Good, Very Good, or Excellent). The final lab report is due on May 12/13. All reports are due by midnight on the due date and must be turned in via the class website.
+**Lab reports:** You will write a lab report for the Heat Stress lab. The draft lab report is due on April 27/28. You will go through a peer review process during the Paper Workgroup (April 29-30).  The final lab report is due on May 13/14. All reports are due by midnight on the due date and must be turned in via the class website.
 
-**Worksheets:** In each lab period you will fill out a worksheet. This worksheet must be completed by the end of lab and will be checked by TAs.
+**Worksheets:** In each lab period you will fill out a worksheet. This worksheet must be completed by the end of lab.
 
 ## General laboratory rules
 - No food or drink (this includes gum)
@@ -47,14 +47,14 @@ Week	Dates  |	Topic
 ----------------|---------------
 **1-**	Mar 30-31 |	NO LAB
  	Apr 1-2	| Lab Intro (J & R)
-**2-**	Apr 6-7	| Intro to Cnidaria (R)
- 	Apr 8-9 | Heat Stress Lab I (J)	
-**3-**	Apr 13-14	|  Mollusc 1: Introduction to Molluscs (R)
- 	Apr 15-16		| Heat Stress Lab II (J)
-**4-**	Apr 20-21		| Mollusc 2: Bivalves (R)
- 	Apr 22-23	| 	Writing Workshop (J)
-**5-**	Apr 27-28	| 	Mollusc 3: Gastropods / Cephalopods (R)
- 	Apr 29-30		| Paper Workgroup (J)
+**2-**	Apr 6-7	| Heat Stress Lab I (J)	
+ 	Apr 8-9 | Intro to Cnidaria (R)	
+**3-**	Apr 13-14	| Heat Stress Lab II (J)
+ 	Apr 15-16		| Mollusc 1: Introduction to Molluscs (R)
+**4-**	Apr 20-21		| Writing Workshop (J)
+ 	Apr 22-23	| Mollusc 2: Bivalves (R)
+**5-**	Apr 27-28	| Paper Workgroup (J)
+ 	Apr 29-30		| Mollusc 3: Gastropods / Cephalopods (R)
 **6-**	May 4-5		| Lab Midterm Exam
  	May 6-7		| Intro to Arthropoda (J)
 **7-**	May 11-12	| 	Arthropod 2: Crab dissection (R)
