@@ -2,9 +2,20 @@ Name:____________________
 
 Fish310
 Spring 2015
+
+Organisms: 
+- LIVE Several representative members of hydrozoa (thecate and athecate), anthozoa, and scyphozoa
+- LIVE 18 Anthopleura
+- Brine shrimp larvae
+- Any preserved cnidaria specimens
+
+Scientific Equipment:
+- scopes
+
+---
 			
 #Introduction to Cnidarians
-####In today’s lab we will be observing members of the phylum Cnidaria. You will become familiar with the external and internal anatomy of 3 representative classes; Hydrozoa, Scyphozoa, and Anthozoa.  A live sea anemone dissection will be performed so you will need to work in groups in order to conserve animals. All animals have been anesthetized prior to dissection. Remember to walk around the room and check out other people’s dissections and/or wet mounts. They may be able to see something you didn’t.    
+In today’s lab we will be observing members of the phylum Cnidaria. You will become familiar with the external and internal anatomy of 3 representative classes; Hydrozoa, Scyphozoa, and Anthozoa.  A live sea anemone dissection will be performed so you will need to work in groups in order to conserve animals. All animals have been anesthetized prior to dissection. Remember to walk around the room and check out other people’s dissections and/or wet mounts. They may be able to see something you didn’t.    
 
 Cnidarians (“cnida” = nettle or stinging thread) are almost entirely marine with 10,000 living species described. Common cnidarians include jellyfish, corals, sea anemones, box jellies, fire corals, sea pens, and sea pansies. Two strikingly different body plans are found among cnidarians: a polyp form (typically asexual and benthic) and a medusa form (typically sexual and planktonic/pelagic). Some members of the phylum have both a polyp and medusa stage. Most cnidarians have radial symmetry, although sea pens have bilateral symmetry. Cnidarians do not have a head and are situated on an oral-aboral axis. Despite differences in body plans, both polyps and medusa share the same basic body construction; 2 layers of epithelium (epidermis (=ectoderm) and gastrodermis (=endoderm)) with mesoglea in between. Mesoglea is made of secreted mucopolysaccharides, collagen, and water and is not a true tissue. 
 
