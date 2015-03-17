@@ -1,6 +1,11 @@
 # SYLLABUS 
 ## FISH310: Biology of Shellfishes 
 
+_Instructors:_
+Steven Roberts    
+Jake Heare        
+Ryan Waples
+
 Contact: <https://catalyst.uw.edu/umail/form/sr320/2736>			
 twitter: @UW_FISH310
 
@@ -43,6 +48,8 @@ Lab Worksheets | 5
 Lab Report  |	10
 
 --- 
+Attendance Policy {%fix%} There are two field trips for this lab course.  One field trip takes place during regularly scheduled lab time, but will be a late return. One weekend field trip (May 17) is scheduled.
+
 
 Late Policy: 
 Assignments turned in late will be penalized (at least 10%) for each day they are late unless prior arrangements have been made.
@@ -56,6 +63,10 @@ The two exams will consist of:
 • Sketches / drawings			
 
 The final exam will be comprehensive
+
+*Lab reports:* You will write a lab report for the Heat Stress lab. The draft lab report is due on April 27/28. You will go through a peer review process during the Paper Workgroup (April 29-30).  The final lab report is due on May 13/14. All reports are due by midnight on the due date and must be turned in via the class website.
+
+*Lab Worksheets:* In each lab period you will fill out a worksheet. This worksheet must be completed by the end of lab.
 
 ---
 
@@ -108,6 +119,26 @@ Seven	| Chapter 14 and - parts of Chapter 23 (Arthropod)* 5thEd
 Eight |	Chapter 20
 Nine |	Chapter 21 and 23
 Ten	| TBD 
+
+---
+## General laboratory rules
+- No food or drink (this includes gum)
+- No cell phones in lab
+- Always wear closed toed shoes (Strictly Enforced).
+- Put scalpel blades in the sharps container.
+- Handle preserved specimens and shells carefully.
+- Rinse tools off before and after use.
+- Rinse your hands well with water only to remove lotions or soaps before touching live animals.
+- Handle all animals gently.
+- Keep live animals in the water and avoid temperature, oxygen, and light shock.
+- Don’t feed the animals.
+- Don’t let animals dry out.
+- Never place dead animals in the garbage, put them in the bags provided.
+- Put preserved animals back in the correct jar.
+- Don’t mix instruments used with live and dead animals; clean the implements.
+- If you are unsure of what to do, ask before you act.
+
+---
 
 
 ## GENERAL POLICIES
