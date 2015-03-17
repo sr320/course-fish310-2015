@@ -2,10 +2,6 @@
 
 Biology of Shellfishes
 Teaching Assistants   
-Jake Heare [contact](jheare@uw.edu)
-
-Ryan Waples [contact](waplesr@uw.edu)
-
 Contact: https://catalyst.uw.edu/umail/form/sr320/2736
 
 Office Hours by Appointment 
