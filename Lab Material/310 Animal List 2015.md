@@ -1,12 +1,6 @@
 #FISH 310 Biology of Shellfish
 ##Animals for lab Spring 2015
 
-###April 13-14
-####Heat Stress
-
-Animals Needed:
-
-- Olympia Oysters--60 (20 from each Pop)
 
 ###April 6-7
 ####Intro to Cnidaria
@@ -17,6 +11,12 @@ Animals needed:
 - Brine shrimp larvae
 - Any preserved cnidaria specimens
 
+###April 13-14
+####Heat Stress
+
+Animals Needed:
+
+- Olympia Oysters--60 (20 from each Pop)
 
 ###April 20-21
 ####Mollusc 1: Introduction to Mollusca
@@ -51,7 +51,7 @@ Animals needed:
 - **LIVE** mussels (1 per student) ~40
 
 ###April 29-30
-####Mollusc 4: Gastropods and Cephalopods
+####Mollusc 3: Gastropods and Cephalopods
 Animals needed:
 
 - **LIVE** Helix
