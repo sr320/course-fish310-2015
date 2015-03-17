@@ -76,7 +76,7 @@ Date |	Lecture |	notes | lab | week
  3/30	| Intro	 |  | _Lab Intro_ | **one**
 4/1	 | Environment and Physiology	 | Chapter 1 | _Quarter Project Info_
 4/3	 | Invertebrate Classification	 | Chapter 2
-4/6	 | Cnidaria	 | Chapter 6 | _Intro to Cnidaria_ | **two**
+4/6	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Material/cnidaria-lab-2015.md) | **two**
 4/7	 | Cnidaria -  | Chapter 6 | lab
 4/10	 | Cnidaria - Paper Discussion	 | Chapter 6 
 4/13	 | Protozoa	 | Chapter 3 (L6)   | lab | **three**
