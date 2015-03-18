@@ -1,8 +1,7 @@
 #FISH 310 Biology of Shellfish
 ##Animals for lab Spring 2015
 
-
-###April 6-7
+###April 13-14
 ####Intro to Cnidaria
 Animals needed:
 
@@ -11,12 +10,13 @@ Animals needed:
 - Brine shrimp larvae
 - Any preserved cnidaria specimens
 
-###April 13-14
+###April 15-16
 ####Heat Stress
 
 Animals Needed:
 
 - Olympia Oysters--60 (20 from each Pop)
+
 
 ###April 20-21
 ####Mollusc 1: Introduction to Mollusca
@@ -115,7 +115,7 @@ Preserved/molts/slides:
 - Shrimp eye and crab eye slides (slide from Greg?)
 
 ###May 18-19
-####Ecninoderms: Asteroidea, Holothuroidea, and Ophiuroidea
+####Echinoderms: Asteroidea, Holothuroidea, and Ophiuroidea
 Animal Needs:
 
 - **LIVE** Cucumaria piperata

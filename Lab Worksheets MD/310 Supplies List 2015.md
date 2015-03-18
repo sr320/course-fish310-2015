@@ -19,19 +19,19 @@
 - Masking Tape
 - 310 box of animal slides 
 
-###March 30 - 31
+###April 6-7
 ####Lab Introduction 
 Equipment needed:
 
 - 1 compound scope
 - 1 dissecting scope
 
-###April 1-2
+###April 8-9
 ####Heat Stress Experiment
 Equipment needed:
 
 
-###April 6-7
+###April 13-14
 ####Intro to Cnidaria
 Equipment needed:
 
@@ -42,12 +42,6 @@ Equipment needed:
 - Lined bucket for mort waste (biohazard bags necessary?)
 
 
-###April 9-10: 
-####Heat Stress Experiment
-Equipment needed:
-
-
-###April 11-12
 
 
 ###April 20-21
@@ -93,7 +87,6 @@ Shells:
 - softshell
 - razor clam
 
-###April 23-24
 
 
 ###April 29-30
