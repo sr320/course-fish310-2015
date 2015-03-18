@@ -1,7 +1,7 @@
 # SYLLABUS 
 ## FISH310: Biology of Shellfishes 
 
-_Instructors:_
+_Instructors:_    
 Steven Roberts    
 Jake Heare        
 Ryan Waples
@@ -21,11 +21,12 @@ Learning objectives:
 To develop skills and acquire knowledge to be able to understand the taxonomy, life history, physiology and ecology of selected invertebrate taxa. You will learn about the interrelationship between different species and their role in the natural environment.
 
 Skill objectives: 		
-• Written scientific communication       
 • Critical thinking and problem solving 			
 • Collaborating with other students 			
 • Gathering, reading, and sharing on current events related to invertebrate biology 			
 • Participation in discussions			
+• Implement Scientific Method to make new discoveries      
+
 
 General Behavior:      
 It is expected that student respect their peers and instructors. This includes but not limited to 			
@@ -36,25 +37,19 @@ It is expected that student respect their peers and instructors. This includes b
 ---
 ## GRADING
 
-Assignment	| Percent Grade 
-------------------|-----------------
-Exam 1	| 15
-Exam 2	| 15
-Quizzes	| 7
-Class Response | 	10
-Final Exam | 	20
-Lab Practicals  | 18
-Lab Worksheets | 5
-Lab Report  |	10
+Assignment	| Percent Grade | info
+------------------|-----------------|-----------
+Exam 1	| 15 |  short answer etc
+Exam 2	| 15 |  short answer etc
+Quizzes	| 7 | Mondays via Tophat
+Class Response | 	10  | During class via Tophat
+Final Exam | 	20 | comprehensive
+Lab Worksheets | 10  | due each lab
+Lab Practicals  | 20 | two in lab assessements
+Discussion Board Participation  | 3 |  two posts / week
 
 --- 
-Attendance Policy {%fix%} There are two field trips for this lab course.  One field trip takes place during regularly scheduled lab time, but will be a late return. One weekend field trip (May 17) is scheduled.
-
-
-Late Policy: 
-Assignments turned in late will be penalized (at least 10%) for each day they are late unless prior arrangements have been made.
-
-Class Response Activity: Tophat will be used in class for assessment. The platform will be used for weekly quizzes given each Monday.
+Attendance Policy - Attendance in lecture is not directly recorded however  quizzes and class repsonses are given via Tophat.  Given the degree of live animals, set-up, and support services, there will be no make up labs. Please get to know your labmates as you will be responsible for material. 
 
 The two exams will consist of:		
 • Multiple choice 	
@@ -64,43 +59,50 @@ The two exams will consist of:
 
 The final exam will be comprehensive
 
-*Lab reports:* You will write a lab report for the Heat Stress lab. The draft lab report is due on April 27/28. You will go through a peer review process during the Paper Workgroup (April 29-30).  The final lab report is due on May 13/14. All reports are due by midnight on the due date and must be turned in via the class website.
+Quizzes will be given each Monday via Tophat.     
+
+Class Response Activity: Tophat will be used in class for assessment. 
 
 *Lab Worksheets:* In each lab period you will fill out a worksheet. This worksheet must be completed by the end of lab.
+
+*Lab Practical:* There will be two lab practicals using a station method which will assess your knowledge gained during lab.   
+
+Discussion Board Participation: The discussion board will be the primary means of communication. Please use it to ask question, answer questions, and share fun facts about invertebrates.
+
 
 ---
 
 ## SCHEDULE
 Date |	Lecture |	notes | lab | week
 -------|-------------|---------|---------|-----------
- 3/30	| Intro	 |  | _Lab Intro_ | **one**
-4/1	 | Environment and Physiology	 | Chapter 1 | _Quarter Project Info_
+3/30	| Intro	 |  | _no lab_ | **one**
+4/1	 | Environment and Physiology	 | Chapter 1 | _no lab_
 4/3	 | Invertebrate Classification	 | Chapter 2
-4/6	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Material/cnidaria-lab-2015.md) | **two**
-4/7	 | Cnidaria -  | Chapter 6 | lab
-4/10	 | Cnidaria - Paper Discussion	 | Chapter 6 
-4/13	 | Protozoa	 | Chapter 3 (L6)   | lab | **three**
-4/15	 | Porifera	 | Chapter 4 | lab
-4/17	 | Mollusca	 | Chapter 12
+4/6	 | Protozoa	 | Chapter 3 (L6)   | _Lab Intro_ | **two**
+4/7	 | Porifera	 | Chapter 4 | _Quarter Project A_
+4/10	 | Cnidaria - Paper Discussion  |  Chapter 6 
+4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
+4/15	 | Cnidaria   | Chapter 6 | _Quarter Project B_
+4/17	| Mollusca	 | Chapter 12
 4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
 4/22	 | Mollusca	 | Chapter 12 | _Mollusc 2: Bivalves_
 4/24	 | Mollusca	 | Chapter 12 
-4/27	 | Mollusca Freshwater  | Chapter 12 | _QP_ | **five**
+4/27	 | Mollusca Freshwater  | Chapter 12 | _Quarter Project C_ | **five**
 4/29	 | Review	 | | _Mollusc 3: Gastropods / Cephalopods_
 5/1	 | Exam 1	 |
 5/4	 | Arthropoda | 	Chapter 14 | _Lab Midterm Exam_ | **six**
 5/6	 | Arthropoda	 | Chapter 14 | _Intro to Arthropoda_
 5/8	 | Arthropoda	 | Chapter 14  
-5/11	 | Arthropoda	 | Chapter 14  | _QP_ | **seven**
+5/11	 | Arthropoda	 | Chapter 14  | _Quarter Project D_ | **seven**
 5/13	 | Arthropoda	 | Chapter 14  | _Arthropod 2: Crustacean Development, Senses and More_
 5/15	 | Echinoderm | 	 
 5/18	 | Echinoderm	 |  | Echinoderm | **eight**
-5/20	 | Review	 |  | _QP_
+5/20	 | Review	 |  | _Quarter Project E_
 5/22	 | Exam	  | 
 5/25	 | _Holiday_	  | | _no lab_ | **nine**
-5/27	 | Hemichordates	  | | lab
+5/27	 | Hemichordates	  | |  _Lab Final Exam_ 
 5/29	 | Genetics	 |  
-6/1	 | Conservation	 |  | _Lab Final Exam_ | **ten**
+6/1	 | Conservation	 |  | Review-evals-talk practice | **ten**
 6/3	 | Case Studies	  | | _QP Presentations_
 6/5	 | Review	  | 
 
