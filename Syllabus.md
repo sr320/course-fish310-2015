@@ -75,22 +75,18 @@ Discussion Board Participation: The discussion board will be the primary means o
 ## SCHEDULE
 Date |	Lecture |	notes | lab | week
 -------|-------------|---------|---------|-----------
- 3/30	| Intro	 |  | _no lab_ | **one**
+3/30	| Intro	 |  | _no lab_ | **one**
 4/1	 | Environment and Physiology	 | Chapter 1 | _no lab_
 4/3	 | Invertebrate Classification	 | Chapter 2
-
 4/6	 | Protozoa	 | Chapter 3 (L6)   | _Lab Intro_ | **two**
 4/7	 | Porifera	 | Chapter 4 | _Quarter Project A_
 4/10	 | Cnidaria - Paper Discussion  |  Chapter 6 
-
 4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Material/cnidaria-lab-2015.md) | **three**
 4/15	 | Cnidaria   | Chapter 6 | _Quarter Project B_
 4/17	| Mollusca	 | Chapter 12
-
 4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
 4/22	 | Mollusca	 | Chapter 12 | _Mollusc 2: Bivalves_
 4/24	 | Mollusca	 | Chapter 12 
-
 4/27	 | Mollusca Freshwater  | Chapter 12 | _Quarter Project C_ | **five**
 4/29	 | Review	 | | _Mollusc 3: Gastropods / Cephalopods_
 5/1	 | Exam 1	 |
