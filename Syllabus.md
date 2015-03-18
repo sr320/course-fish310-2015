@@ -81,7 +81,7 @@ Date |	Lecture |	notes | lab | week
 4/6	 | Protozoa	 | Chapter 3 (L6)   | _Lab Intro_ | **two**
 4/7	 | Porifera	 | Chapter 4 | _Quarter Project A_
 4/10	 | Cnidaria - Paper Discussion  |  Chapter 6 
-4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Material/cnidaria-lab-2015.md) | **three**
+4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
 4/15	 | Cnidaria   | Chapter 6 | _Quarter Project B_
 4/17	| Mollusca	 | Chapter 12
 4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
