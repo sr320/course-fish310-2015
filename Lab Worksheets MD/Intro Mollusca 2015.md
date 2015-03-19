@@ -2,6 +2,33 @@ Name: _____________________________
 
 Fish 310 Spring 2015
 
+Animals needed: 
+- Representatives of 5 classes of molluscs—can be **LIVE** or preserved, as appropriate (animals A-E)
+- Polyplacophora (chiton) **LIVE**
+- Cephalopoda (squid, octopus or cuttlefish)
+- Scaphopoda (tusk shell)
+- Bivalvia **LIVE**
+- Gastropoda **LIVE**
+- Additional gastropods, bivalves and cephalopods to examine  (can be others, as available, alive or preserved, as appropriate)
+- True limpet **LIVE**
+- Moon snail **LIVE**
+- Clam **LIVE**
+- Dog whelk 
+- Nudibranch **LIVE**
+- Squid (B)
+- Chiton (3 species) **LIVE**
+- Molluscs to observe pedal morphology
+- Giant chiton
+- Clam
+- Squid
+- Nudibranch
+- Limpet
+- Moonsnail
+
+Equipment needed:
+- Dissecting Scopes
+
+
 #Introduction to the Phylum Mollusca, emphasis on Polyplacophora
 
 The phylum Mollusca is a highly diverse group of animals found in marine, terrestrial, and freshwater ecosystems. The diversity of this group, which includes land snails, geoduck clams, and octopuses, can make it difficult to identify features common to the entire phylum. Today you will examine a number of interesting molluscs, look at the features that unite them and some of their adaptations, and learn to identify the major groups of molluscs. You will examine individuals from 5 of the 7 Molluscan classes.  
