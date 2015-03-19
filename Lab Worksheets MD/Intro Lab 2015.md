@@ -10,7 +10,7 @@ Equipment needed:
 
 #Introduction to Shellfish Biology 
 				
-In today’s lab, you will have the opportunity to observe animals from four different phyla and begin to think about what unites animals from each of these groups.  Today’s lab is also designed to get you comfortable in the laboratory, practicing skills and techniques we will use for the rest of the quarter.  This includes observing and drawing live and preserved animals, using microscopes and micropipettes, writing, thinking critically, and asking questions (do lots of this!).  
+In today’s lab, you will have the opportunity to observe animals from four different phyla and begin to think about what unites animals from each of these groups.  Today’s lab is also designed to get you comfortable in the laboratory, practicing skills and techniques we will use for the rest of the quarter.  This includes observing and drawing live and preserved animals, using microscopes and micropipettes,  thinking critically, and asking questions (do lots of this!).  
 	
 #####1 These animals are all from the phylum **Cnidaria**.  What do you think are three characteristics that might define this phyla? 
 &nbsp;
