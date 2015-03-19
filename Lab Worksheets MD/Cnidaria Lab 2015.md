@@ -9,8 +9,12 @@ Organisms:
 - Brine shrimp larvae
 - Any preserved cnidaria specimens
 
-Scientific Equipment:
-- scopes
+Equipment needed (in addition to generic)
+- Compound microscopes
+- Dissecting microscopes
+- Dilute acetic acid
+- Particles for feeding if no brine shrimp larvae
+- Lined bucket for mort waste (biohazard bags necessary?)
 
 ---
 			
