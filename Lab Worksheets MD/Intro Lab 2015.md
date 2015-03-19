@@ -2,6 +2,12 @@ Name:________________
 
 Fish 310 Spring 2015
 
+
+Equipment needed:
+- 1 compound scope
+- 1 dissecting scope
+
+
 #Introduction to Shellfish Biology 
 				
 In today’s lab, you will have the opportunity to observe animals from four different phyla and begin to think about what unites animals from each of these groups.  Today’s lab is also designed to get you comfortable in the laboratory, practicing skills and techniques we will use for the rest of the quarter.  This includes observing and drawing live and preserved animals, using microscopes and micropipettes, writing, thinking critically, and asking questions (do lots of this!).  
@@ -139,4 +145,4 @@ What is one advantage and one disadvantage to this shell type?
 
 &nbsp;
 
-#####11 What are two things that you hope to learn about the effects of ocean acidification on aquatic invertebrates during your research experiment? 
+
