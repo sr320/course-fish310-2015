@@ -4,11 +4,12 @@ The function of this lab is to explore the nature of heat stress in intertidal i
 
 
 Lab A (4/8-4/9)
-Choose your workgroup (3-4 people)
-Plan your experiment (Don't forget the Control group)
-Decide what equipment you will need.
-Plan how you will measure experiment.
-Background; Design Experiment.
+
+- Choose your workgroup (3-4 people)
+- Plan your experiment (Don't forget the Control group)
+- Decide what equipment you will need.
+- Plan how you will measure experiment.
+- Background; Design Experiment.
 
 Lab B (4/15-4/16)- Set up systems, organize, get in tanks, ASTER model
 
