@@ -78,7 +78,7 @@ Date |	Lecture |	notes | lab | week
 3/30	| Intro	 |  | _no lab_ | **one**
 4/1	 | Environment and Physiology	 | Chapter 1 | _no lab_
 4/3	 | Invertebrate Classification	 | Chapter 2
-4/6	 | Protozoa	 | Chapter 3 (L6)   | _Lab Intro_ | **two**
+4/6	 | Protozoa	 | Chapter 3 (L6)   | [_Lab Intro_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
 4/7	 | Porifera	 | Chapter 4 | _Quarter Project A_
 4/10	 | Cnidaria - Paper Discussion  |  Chapter 6 
 4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
