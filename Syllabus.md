@@ -79,7 +79,7 @@ Date |	Lecture |	notes | lab | week
 4/1	 | Environment and Physiology	 | Chapter 1 | _no lab_
 4/3	 | Invertebrate Classification	 | Chapter 2
 4/6	 | Protozoa	 | Chapter 3 (L6)   | [_Lab Intro_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
-4/7	 | Porifera	 | Chapter 4 | _Quarter Project A_
+4/8	 | Porifera	 | Chapter 4 | _Quarter Project A_
 4/10	 | Cnidaria - Paper Discussion  |  Chapter 6 
 4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
 4/15	 | Cnidaria   | Chapter 6 | _Quarter Project B_
@@ -95,7 +95,8 @@ Date |	Lecture |	notes | lab | week
 5/8	 | Arthropoda	 | Chapter 14  
 5/11	 | Arthropoda	 | Chapter 14  | _Quarter Project D_ | **seven**
 5/13	 | Arthropoda	 | Chapter 14  | _Arthropod 2: Crustacean Development, Senses and More_
-5/15	 | Echinoderm | 	 
+5/15	 | Echinoderm | 
+**5/17**    | FIELD TRIP | | Alki Beach	 
 5/18	 | Echinoderm	 |  | Echinoderm | **eight**
 5/20	 | Review	 |  | _Quarter Project E_
 5/22	 | Exam	  | 
