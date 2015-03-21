@@ -54,7 +54,7 @@ Attendance Policy - Attendance in lecture is not directly recorded however  quiz
 The two exams will consist of:		
 • Multiple choice 	
 • Short answer (problems, definitions, compare-and-contrast, etc.) 	
-• Short essay	
+• Short essay	     
 • Sketches / drawings			
 
 The final exam will be comprehensive
