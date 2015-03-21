@@ -41,12 +41,13 @@ Assignment	| Percent Grade | info
 ------------------|-----------------|-----------
 Exam 1	| 15 |  short answer etc
 Exam 2	| 15 |  short answer etc
-Quizzes	| 7 | Mondays via Tophat
-Class Response | 	10  | During class via Tophat
+Quizzes	| 10 | Mondays via Tophat
+Class Response | 	5  | During class via Tophat
+Discussion Board Participation  | 5 |  two posts / week
 Final Exam | 	20 | comprehensive
 Lab Worksheets | 10  | due each lab
-Lab Practicals  | 20 | two in lab assessements
-Discussion Board Participation  | 3 |  two posts / week
+Lab Practicals  | 10 | two in lab assessements    
+Lab Quarter Project | 10 | writing + presentation
 
 --- 
 Attendance Policy - Attendance in lecture is not directly recorded however  quizzes and class repsonses are given via Tophat.  Given the degree of live animals, set-up, and support services, there will be no make up labs. Please get to know your labmates as you will be responsible for material. 
