@@ -1,5 +1,4 @@
 
-
 _Instructors:_    
 Steven Roberts    
 Jake Heare        
@@ -49,6 +48,7 @@ Lab Practicals  | 10 | two in lab assessements
 Lab Quarter Project | 10 | writing + presentation
 
 --- 
+
 Attendance Policy - Attendance in lecture is not directly recorded however  quizzes and class repsonses are given via Tophat.  Given the degree of live animals, set-up, and support services, there will be no make up labs. Please get to know your labmates as you will be responsible for material. 
 
 The two exams will consist of:		
