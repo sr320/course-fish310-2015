@@ -1,5 +1,4 @@
-# SYLLABUS 
-## FISH310: Biology of Shellfishes 
+
 
 _Instructors:_    
 Steven Roberts    
