@@ -109,20 +109,7 @@ Date |	Lecture |	notes | lab | week
 6/5	 | Review	  | 
 
 
-## READINGS
 
-Week	| Readings (Textbook and other)
-----------|--------------
-One |	Chapters 1 and 2
-Two	| Chapters 6 and 3
-Three	| Chapter 12
-Four | Chapter 12
-Five	| Chapter 12
-Six | Chapter 14
-Seven	| Chapter 14 and - parts of Chapter 23 (Arthropod)* 5thEd
-Eight |	Chapter 20
-Nine |	Chapter 21 and 23
-Ten	| TBD 
 
 ---
 ## General laboratory rules
@@ -152,4 +139,4 @@ If you would like to request academic accommodations due to a disability, please
 
 Academic Integrity: Plagiarism, cheating, and other misconduct are serious violations of your contract as a student. We expect that you will know and follow the University's policies on cheating and plagiarism. Any suspected cases of academic misconduct will be handled according to University regulations.
 
-Field Trips: We will go on several field trips during the lab sessions.
+Field Trips: We will go on one field trip - May 17th to Alki Beach.
