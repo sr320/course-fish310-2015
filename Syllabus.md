@@ -1,4 +1,5 @@
 
+
 _Instructors:_    
 Steven Roberts    
 Jake Heare        
@@ -48,7 +49,6 @@ Lab Practicals  | 10 | two in lab assessements
 Lab Quarter Project | 10 | writing + presentation
 
 --- 
-
 Attendance Policy - Attendance in lecture is not directly recorded however  quizzes and class repsonses are given via Tophat.  Given the degree of live animals, set-up, and support services, there will be no make up labs. Please get to know your labmates as you will be responsible for material. 
 
 The two exams will consist of:		
@@ -78,10 +78,10 @@ Date |	Lecture |	notes | lab | week
 3/30	| L1 - [Intro](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec1.pdf) 	 |  | _no lab_ | **one**
 4/1	 | Environment and Physiology	 | Chapter 1 | _no lab_
 4/3	 | Invertebrate Classification	 | Chapter 2
-4/6	 | Protozoa	 | Chapter 3 (L6)   | [_Lab Intro_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
+4/6	 | Protozoa	 | Chapter 3 (L6)   | [_Lab Intro_](https://github.com/sr320/course-fish310-2015/raw/master/Lab%20Worksheets%20MD/pdf/Intro-Lab-2015.pdf) | **two**
 4/8	 | Porifera	 | Chapter 4 | _Quarter Project A_
 4/10	 | Cnidaria - Paper Discussion  |  Chapter 6 
-4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
+4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_]() | **three**
 4/15	 | Cnidaria   | Chapter 6 | _Quarter Project B_
 4/17	| Mollusca	 | Chapter 12
 4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
