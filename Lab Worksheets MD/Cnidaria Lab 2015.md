@@ -4,8 +4,8 @@ Fish310
 Spring 2015
 
 Organisms: 
-- LIVE Several representative members of hydrozoa (thecate and athecate), anthozoa, and scyphozoa
-- LIVE 18 Anthopleura
+- Representative members of hydrozoa (thecate and athecate), anthozoa, and scyphozoa
+- Live Anthopleura
 - Brine shrimp larvae
 - Any preserved cnidaria specimens
 
