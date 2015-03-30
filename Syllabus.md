@@ -75,7 +75,7 @@ Discussion Board Participation: The discussion board will be the primary means o
 ## SCHEDULE
 Date |	Lecture |	notes | lab | week
 -------|-------------|---------|---------|-----------
-3/30	| Intro	 |  | _no lab_ | **one**
+3/30	| L1 - [Intro](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec1.pdf) 	 |  | _no lab_ | **one**
 4/1	 | Environment and Physiology	 | Chapter 1 | _no lab_
 4/3	 | Invertebrate Classification	 | Chapter 2
 4/6	 | Protozoa	 | Chapter 3 (L6)   | [_Lab Intro_](https://github.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
