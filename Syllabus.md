@@ -76,13 +76,13 @@ Discussion Board Participation: The discussion board will be the primary means o
 Date |	Lecture |	notes | lab | week
 -------|-------------|---------|---------|-----------
 3/30	| L1 - [Intro](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec1.pdf) 	 |  | _no lab_ | **one**
-4/1	 | Environment and Physiology	 | Chapter 1 | _no lab_
+4/1	 | L2 - Environment and Physiology	 | Chapter 1 | _no lab_
 4/3	 | Invertebrate Classification	 | Chapter 2
-4/6	 | Protozoa	 | Chapter 3 (L6)   | [_Lab Intro_](https://github.com/sr320/course-fish310-2015/raw/master/Lab%20Worksheets%20MD/pdf/Intro-Lab-2015.pdf) | **two**
+4/6	 | Protozoa	 | Chapter 3 (L6)   | [_Lab Intro_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
 4/8	 | Porifera	 | Chapter 4 | _Quarter Project A_
 4/10	 | Cnidaria - Paper Discussion  |  Chapter 6 
 4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_]() | **three**
-4/15	 | Cnidaria   | Chapter 6 | _Quarter Project B_
+4/15	 | Corals/symbionts - Dr. Closek   | Chapter 6 | _Quarter Project B_
 4/17	| Mollusca	 | Chapter 12
 4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
 4/22	 | Mollusca	 | Chapter 12 | _Mollusc 2: Bivalves_
