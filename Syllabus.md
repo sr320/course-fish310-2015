@@ -73,12 +73,12 @@ Discussion Board Participation: The discussion board will be the primary means o
 ---
 
 ## SCHEDULE
-Date |	Lecture |	notes | lab | week
+Date |	Lecture |	media | lab | week
 -------|-------------|---------|---------|-----------
 3/30	| L1 - [Intro](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec1.pdf) 	 |  | _no lab_ | **one**
 4/1	 | L2 - [Environment and Physiology](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec2.pdf)	 | Chapter 1 | _no lab_
-4/3	 | Invertebrate Classification	 | Chapter 2
-4/6	 | Protozoa	 | Chapter 3 (L6)   | [_Lab Intro_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
+4/3	 | L3 - [Invertebrate Classification](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec3.pdf)	 | Chapter 2
+4/6	 | Protozoa	 | Chapter 3    | [_Lab Intro_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
 4/8	 | Porifera	 | Chapter 4 | _Quarter Project A_
 4/10	 | Cnidaria - Paper Discussion  |  Chapter 6 
 4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_]() | **three**
