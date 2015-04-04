@@ -34,7 +34,11 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 ## Results from Common Garden Experiment
 In 2014 juvenile oysters produced from broodstock from Fidalgo Bay (North), Dabob Bay (Central), and Oyster Bay (South) were outplanted in a "common garden experiment" at each of the above location plus at Clam Bay - (Manchester). See map for site locations.
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/https___peerj_com_preprints_704_pdf_1AD06E8F.png" alt="https___peerj_com_preprints_704_pdf_1AD06E8F.png"/>
-This experiment was carried out to determine if any stock was better adapted to live at its home location. One hypothesis is that through natural selection on beneficial phenotypes (recall Lecture 2), the population (and ultimately the ecosystem) will change. Several parameters were measured include mortality, growth, 
+This experiment was carried out to determine if any stock was better adapted to live at its home location. One hypothesis is that through natural selection on beneficial phenotypes (recall Lecture 2), the population (and ultimately the ecosystem) will change. Several parameters were measured include mortality, growth, reproductive activity. 
+The results were very suprising (and exciting) and like most scientific endevours left us with just as many questions as it did answers! This quarter we will be trying to tackle some of these questions.
+### What happened?
+Temperature profiles
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/https___peerj_com_preprints_704_pdf_1AD07173.png" alt="https___peerj_com_preprints_704_pdf_1AD07173.png"/>
 
 
 
