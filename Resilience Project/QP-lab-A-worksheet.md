@@ -40,6 +40,15 @@ The results were very suprising (and exciting) and like most scientific endevour
 Temperature profiles
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/https___peerj_com_preprints_704_pdf_1AD07173.png" alt="https___peerj_com_preprints_704_pdf_1AD07173.png"/>
 
+---
+
+Survival 
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/https___peerj_com_preprints_704_pdf_1AD0722F.png" alt="https___peerj_com_preprints_704_pdf_1AD0722F.png"/>
+
+
+Growth
+
+
 
 
 ## Game Plan
