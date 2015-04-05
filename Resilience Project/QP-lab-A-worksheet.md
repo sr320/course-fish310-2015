@@ -58,8 +58,6 @@ Stuff we have (or could easily generate) that has not been looked at..
 * 
 
 
-
-
 ## Game Plan
 
 ###What makes *Ostrea lurida* a great specimen for this study?
