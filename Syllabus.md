@@ -73,7 +73,7 @@ Discussion Board Participation: The discussion board will be the primary means o
 ---
 
 ## SCHEDULE
-Date |	Lecture |	media | lab | week
+Date |	Lecture |	Chapter | lab | week
 -------|-------------|---------|---------|-----------
 3/30	| L1 - [Intro](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec1.pdf) 	 |  | _no lab_ | **one**
 4/1	 | L2 - [Environment and Physiology](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec2.pdf)	 | Chapter 1 | _no lab_
