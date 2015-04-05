@@ -47,7 +47,7 @@ Survival
 
 
 Growth
-
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Olympia_—_oystergen_es_1AD0C68B.png" alt="Olympia_—_oystergen_es_1AD0C68B.png"/>
 
 
 
