@@ -27,7 +27,7 @@ twitter: [@UW_FISH310](https://twitter.com/uw_fish310)
 Prerequisites: 10 credits of biological science
 
 Reading assignments: 
-Most readings come from the required textbook (Biology of Invertebrates - Jan A. Pechenik - 6th Edition). Additional readings may be posted on the website periodically to complement the course.
+**Most readings come from the required textbook (Biology of Invertebrates - Jan A. Pechenik - 6th Edition).** Additional readings may be posted on the website periodically to complement the course.
 
 Learning objectives: 
 To develop skills and acquire knowledge to be able to understand the taxonomy, life history, physiology and ecology of selected invertebrate taxa. You will learn about the interrelationship between different species and their role in the natural environment.
