@@ -1,6 +1,11 @@
+MWF: 12:30 - 1:20
 
+Lab AA T, Th : 2:00 - 4:50   
+Lab AB M, W : 2:00 - 4:50    
+ 
+---
 
-_Instructors:_    
+_Instructors:_       
 Steven Roberts    
 Jake Heare        
 Ryan Waples
@@ -8,10 +13,15 @@ Ryan Waples
 Contact: <https://catalyst.uw.edu/umail/form/sr320/2736>			
 twitter: [@UW_FISH310](https://twitter.com/uw_fish310)
 
+
+
 ---
+
 [TopHat](https://app.tophat.com/e/537363)
 
 ----
+
+
 ## EXPECTATIONS
 
 Prerequisites: 10 credits of biological science
