@@ -14,7 +14,7 @@ Objectives:
 
 #Introduction to Shellfish Biology 
 				
-In today’s lab, you will have the opportunity to observe animals from four different phyla and begin to think about what unites animals from each of these groups.  Today’s lab is also designed to get you comfortable in the laboratory, practicing skills and techniques we will use for the rest of the quarter.  This includes observing and drawing live and preserved animals, using microscopes and micropipettes,  thinking critically, and asking questions (do lots of this!).  
+In today’s lab, you will have the opportunity to observe animals from four different phyla and begin to think about what unites animals from each of these groups.  Today’s lab is also designed to get you comfortable in the laboratory, practicing skills and techniques we will use for the rest of the quarter.  This includes observing and drawing live and preserved animals, using microscopes and micropipettes, thinking critically, and asking questions (do lots of this!).  
 
 ###Station 1: *Cnidarians*
 	
@@ -29,6 +29,29 @@ In today’s lab, you will have the opportunity to observe animals from four dif
 
 &nbsp;
 
+##### List as many organisms from this phylum as you can.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+##### What are some of specific ways organisms in the phylum directly or indirectly impact society and culture.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 
 ###Station 2: *Molluscans*
 #####2 These animals are all from the phylum *Mollusca*.  What do you think are three characteristics that might define this phyla?  
@@ -41,6 +64,28 @@ In today’s lab, you will have the opportunity to observe animals from four dif
 &nbsp;
 
 &nbsp;
+##### List as many organisms from this phylum as you can.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+##### What are some of specific ways organisms in the phylum directly or indirectly impact society and culture.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 ###Station 3: *Arthropods*
 #####3 These animals are all from the phylum *Arthropoda*.  What do you think are three characteristics that might define this phyla? 
@@ -53,6 +98,28 @@ In today’s lab, you will have the opportunity to observe animals from four dif
 &nbsp;
 
 &nbsp;
+##### List as many organisms from this phylum as you can.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+##### What are some of specific ways organisms in the phylum directly or indirectly impact society and culture.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 ###Station 4: *Echinoderms*
 #####4 These animals are all from the phylum *Echinodermata*.  What do you think are three characteristics that might define this phyla?  
@@ -76,6 +143,28 @@ In today’s lab, you will have the opportunity to observe animals from four dif
 &nbsp;
 
 &nbsp;
+##### List as many organisms from this phylum as you can.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+##### What are some of specific ways organisms in the phylum directly or indirectly impact society and culture.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 ###Station 5: Microscopy
 #####6 Look at the organism on the dissecting scope. What phylum does this organism belong to? How many different pairs of appendages do you count?  Are any of the appendages modified? 
