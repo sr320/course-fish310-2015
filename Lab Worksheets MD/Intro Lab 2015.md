@@ -38,7 +38,7 @@ In today’s lab, you will have the opportunity to observe animals from four dif
 &nbsp;
 
 &nbsp;
-
+<!--BREAK-->
 ##### What are some of specific ways organisms in the phylum directly or indirectly impact society and culture.
 
 &nbsp;
