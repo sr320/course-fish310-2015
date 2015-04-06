@@ -181,7 +181,7 @@ In today’s lab, you will have the opportunity to observe animals from four dif
 &nbsp;
 
 ###Station 6: Live Tank
-#####7 List all phyla represented in the live tank. 
+#####7 List all phyla represented in the live tank. How can you tell?
 &nbsp;
 
 &nbsp;
