@@ -92,7 +92,7 @@ Date |	Lecture |	Chapter | lab | week
 4/1	 | L2 - [Environment and Physiology](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec2.pdf)	 | Chapter 1 | _no lab_
 4/3	 | L3 - [Invertebrate Classification](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec3.pdf)	 | Chapter 2
 4/6	 | L4 - [Protozoa](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec4.pdf)	 | Chapter 3    | [_Lab Intro_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
-4/8	 | Porifera	 | Chapter 4 | _Quarter Project A_
+4/8	 | L5 - [Porifera](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec5.pdf)	 | Chapter 4 | _Quarter Project A_
 4/10	 | Cnidaria   |  Chapter 6 
 4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_]() | **three**
 4/15	 | Corals/symbionts - Dr. Closek   | Chapter 6 | _Quarter Project B_
