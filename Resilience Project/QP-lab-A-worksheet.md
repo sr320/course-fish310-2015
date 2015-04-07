@@ -21,7 +21,7 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 
 ## The Olympia Oyster - Basics
 
-
+<<INCLUDE SOME BASIC FACTS>>>
 
 
 
