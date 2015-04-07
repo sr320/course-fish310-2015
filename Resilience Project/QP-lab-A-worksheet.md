@@ -2,9 +2,20 @@ Name:______________________
 
 Fish 310 Spring 2015
 
-Equipment needed: none
+Equipment needed: your brain
 
-ATEOL: You will know a lot about our native oyster and have a plan to make new discoveries throughout the quarter. 
+Today you will know a lot about our native oyster and have a plan to make new discoveries throughout the quarter. 
+
+**Agenda**
+
+- Short Presentation
+- Group based discussion 
+- Whole class sharing
+- Identify project questions and hypotheses
+- Develop experiment design (or data analysis approach)
+- Plan out next 5 QP labs 
+
+---
 
 # How different are the native oysters across Puget Sound?
 ### Quarter Project - Lab A
