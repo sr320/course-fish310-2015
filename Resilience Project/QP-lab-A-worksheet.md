@@ -187,3 +187,19 @@ Small group discussion.
  - We will discuss these papers during the next Quarter Project Lab.
  - If you have any questions or concerns, ask them on the discussion board!
 
+**The evolutionary and ecological role of heat shock proteins**
+
+Sorenson et al. 2003
+
+**Testing local and global stressor impacts on a coastal foundation species using an ecologically realistic framework**
+
+Cheng et al. 2015
+
+**Energy homeostasis as an integrative tool for assessing limits of environmental stress tolerance in aquatic invertebrates**
+
+Sokolova et al. 2012
+
+**MOSAIC PATTERNS OF THERMAL STRESS IN THE ROCKY INTERTIDAL
+ZONE: IMPLICATIONS FOR CLIMATE CHANGE**
+
+Helmuth et al. 2006
