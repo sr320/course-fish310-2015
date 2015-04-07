@@ -86,15 +86,15 @@ Discussion Board Participation: The discussion board will be the primary means o
 ---
 
 ## SCHEDULE
-Date |	Lecture |	Chapter | lab | week
+Date |	Lecture |	Readings | lab | week
 -------|-------------|---------|---------|-----------
 3/30	| L1 - [Intro](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec1.pdf) 	 |  | _no lab_ | **one**
 4/1	 | L2 - [Environment and Physiology](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec2.pdf)	 | Chapter 1 | _no lab_
 4/3	 | L3 - [Invertebrate Classification](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec3.pdf)	 | Chapter 2
 4/6	 | L4 - [Protozoa](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec4.pdf)	 | Chapter 3    | [_Lab Intro_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
-4/8	 | Porifera	 | Chapter 4 | _Quarter Project A_
-4/10	 | Cnidaria   |  Chapter 6 
-4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_]() | **three**
+4/8	 | L5 - [Porifera](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec5.pdf)	 | Chapter 4 | [_Quarter Project A_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-A-worksheet.md)
+4/10	 | Cnidaria   |  Chapter 6; [Coral Paper](https://github.com/sr320/course-fish310-2015/raw/master/Readings/cnidarian-decadal-memory.pdf) 
+4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
 4/15	 | Corals/symbionts - Dr. Closek   | Chapter 6 | _Quarter Project B_
 4/17	| Mollusca	 | Chapter 12
 4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
