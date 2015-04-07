@@ -114,12 +114,30 @@ Small group discussion.
 
 &nbsp;
 
+--- 
+Move to entire class discussion  ~
+--- 
+Back to groups ~
 
-###  Whole Class Discussion  
+---
+## Identify project questions and hypotheses
 
+1) What are at least four scientific questions that could be addressed?
 
+&nbsp;
 
-###Describe Local Adaptation in your own words. How might it benefit a species?
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+2) For eaach question above what are two different ways you could address the question? 
+
 &nbsp;
 
 &nbsp;
@@ -132,35 +150,10 @@ Small group discussion.
 
 &nbsp;
 
-###What is your hypothesis for the experiment?
 &nbsp;
 
-&nbsp;
+3) List all the equipment and supplies you will need. 
 
-&nbsp;
-
-###How will you test your hypothesis?
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#####How will you stress the animals?
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#####How will you measure the effects of the stress?
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-###List all the equipment you will need. 
 &nbsp;
 
 &nbsp;
@@ -172,12 +165,22 @@ Small group discussion.
 &nbsp;
 
 &nbsp;
+
+
+--- 
+Move to entire class discussion  ~
+--- 
+
+----
 
 ##Readings
  - Each person from each group will choose 1 of the 4 papers to read so that the group has read all 4 papers.
  - Post a short summary of the paper on the discussion board (no more than 1 paragraph)
  - We will discuss these papers during the next Quarter Project Lab.
  - If you have any questions or concerns, ask them on the discussion board!
+
+
+---
 
 **The evolutionary and ecological role of heat shock proteins**
 
