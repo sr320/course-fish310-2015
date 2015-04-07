@@ -45,7 +45,7 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 - Remnant populations of Olympia oysters still exist today but are small and not interconnected. 
 - Olympia oysters live in the intertidal zone along rocky shorelines.
 - Temperatures above 40 C (104 F) or below 0 C (32 F) have significant effects on mortality.
-- They are sensitive to 
+- They are sensitive to salinity, toxins, and other environmental stressors.
 
 _Value_
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/eagle_fish_washington_edu_trilobite_Proposal_Database_OlyNOAA_2013_pdf_1AD45057.png" alt="eagle_fish_washington_edu_trilobite_Proposal_Database_OlyNOAA_2013_pdf_1AD45057.png"/>
