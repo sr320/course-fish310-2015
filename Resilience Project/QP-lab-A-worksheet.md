@@ -32,7 +32,14 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 
 ## The Olympia Oyster - Basics
 
-<<INCLUDE SOME BASIC FACTS>>>
+- Olympia oysters are the only native oyster to the Pacific coast of the United States. 
+- Native tribes consumed them on a regular basis as evidenced by archaeological finds.
+- In the late 1800's and early 1900's European settlers began harvest Olympia oysters for consumption.
+- Olympia oysters were continuously overharvested leading to a collapse in their population within the Puget Sound.
+- Remnant populations of Olympia oysters still exist today but are small and not interconnected. 
+- Olympia oysters live in the intertidal zone along rocky shorelines.
+- Temperatures above 40 C (104 F) or below 0 C (32 F) have significant effects on mortality.
+- They are sensitive to 
 
 
 
@@ -182,9 +189,6 @@ Small group discussion.
 
 &nbsp;
 
-<<<<<<< HEAD
-##Don't forget the reading online. Choose 1 paper and write a short review of it on the discussion board (No more than 1 paragraph). We will discuss these papers during the next Quarter Project Lab. If you have any questions or concerns, ask them on the discussion board!
-=======
-##Don't forget the reading online. Choose 2 papers and write a short review of each on the discussion board (No more than 1 paragraph per paper). We will discuss these papers during the next Quarter Project Lab. If you have any questions or concerns, ask them on the discussion board!
 
->>>>>>> 024de8680af8551a2ae2a8f0402cf52bb8304d55
+##Don't forget the reading online. Choose 1 paper and write a short review of it on the discussion board (No more than 1 paragraph). We will discuss these papers during the next Quarter Project Lab. If you have any questions or concerns, ask them on the discussion board!
+
