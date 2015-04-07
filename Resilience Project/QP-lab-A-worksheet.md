@@ -36,8 +36,7 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 ## The Olympia Oyster - Basics
 
 
-<< add a photo >>
-
+![](https://lh6.googleusercontent.com/-dfdWIC8yFFs/U-VjVZtidaI/AAAAAAAAKMs/wqjNwaifcZM/w1538-h865-no/20140808_130447.jpg)
 
 - Olympia oysters are the only native oyster to the Pacific coast of the United States. 
 - Native tribes consumed them on a regular basis as evidenced by archaeological finds.
