@@ -116,6 +116,7 @@ Small group discussion.
 
 --- 
 Move to entire class discussion  ~
+
 --- 
 Back to groups ~
 
@@ -169,6 +170,7 @@ Back to groups ~
 
 --- 
 Move to entire class discussion  ~
+
 --- 
 
 ----
