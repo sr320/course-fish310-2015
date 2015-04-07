@@ -2,9 +2,20 @@ Name:______________________
 
 Fish 310 Spring 2015
 
-Equipment needed: none
+Equipment needed: your brain
 
-ATEOL: You will know a lot about our native oyster and have a plan to make new discoveries throughout the quarter. 
+Today you will know a lot about our native oyster and have a plan to make new discoveries throughout the quarter. 
+
+**Agenda**
+
+- Short Presentation
+- Group based discussion (count off)
+- Whole class sharing
+- Identify project questions and hypotheses (groups)
+- Develop experiment design (or data analysis approach) (class)
+- Plan out next 5 QP labs  (class)
+
+---
 
 # How different are the native oysters across Puget Sound?
 ### Quarter Project - Lab A
@@ -21,7 +32,7 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 
 ## The Olympia Oyster - Basics
 
-
+<<INCLUDE SOME BASIC FACTS>>>
 
 
 
@@ -53,14 +64,16 @@ Growth
 
 Other Data
 Stuff we have (or could easily generate) that has not been looked at..
-* Larvae Counts
-* Other environmental data
-* 
 
+- Larvae Counts
+- Other environmental data      
+-
 
-## Game Plan
+----
 
-###What makes *Ostrea lurida* a great specimen for this study?
+## So What? 
+Small group discussion.
+1) What are 3 main points that you take away from these data?
 &nbsp;
 
 &nbsp;
@@ -71,9 +84,7 @@ Stuff we have (or could easily generate) that has not been looked at..
 
 &nbsp;
 
-&nbsp;
-
-###Name three types of stress and how they might affect *Ostrea lurida*?
+2) Given what you list above, what are the ecological and environmental implications?
 &nbsp;
 
 &nbsp;
@@ -84,7 +95,19 @@ Stuff we have (or could easily generate) that has not been looked at..
 
 &nbsp;
 
+3) Given what you listed for question 1, please list all of the factors that likely contribute to the phenotypic differences among populations?
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+#Back together to share ~ capture on white board 
+
+
 
 ###Describe Local Adaptation in your own words. How might it benefit a species?
 &nbsp;
@@ -159,4 +182,9 @@ Stuff we have (or could easily generate) that has not been looked at..
 
 &nbsp;
 
+<<<<<<< HEAD
 ##Don't forget the reading online. Choose 1 paper and write a short review of it on the discussion board (No more than 1 paragraph). We will discuss these papers during the next Quarter Project Lab. If you have any questions or concerns, ask them on the discussion board!
+=======
+##Don't forget the reading online. Choose 2 papers and write a short review of each on the discussion board (No more than 1 paragraph per paper). We will discuss these papers during the next Quarter Project Lab. If you have any questions or concerns, ask them on the discussion board!
+
+>>>>>>> 024de8680af8551a2ae2a8f0402cf52bb8304d55
