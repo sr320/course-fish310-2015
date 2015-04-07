@@ -29,7 +29,9 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 * Describing recent research findings based on active common garden experiment    
 * Plan what we will do as part of this course to learn more about the Olympia oyster.    
 	* Decide on experiment and analyses    
-	* Develop timeline     
+	* Develop timeline 
+	
+---    
 
 ## The Olympia Oyster - Basics
 
@@ -43,11 +45,7 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 - They are sensitive to 
 
 
-
-
-
-
-
+---
 
 
 ## Results from Common Garden Experiment
