@@ -9,11 +9,12 @@ Today you will know a lot about our native oyster and have a plan to make new di
 
 **Agenda**
 
-- Short Presentation
-- Group based discussion (count off)
+- Opening Comments
+- Group based questions, discussion (count off)
 - Whole class sharing
 - Identify project questions and hypotheses (groups)
 - Develop experiment design (or data analysis approach) (class)
+- Short Presentation - stress, genes, etc.
 - Plan out next 5 QP labs  (class)
 
 ---
@@ -77,19 +78,11 @@ Temperature profiles
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Olympia_—_oystergen_es_1AD0C68B.png" alt="Olympia_—_oystergen_es_1AD0C68B.png"/>
 
----
-
-Other Data
-Stuff we have (or could easily generate) that has not been looked at..
-
-- Larvae Counts
-- Other environmental data      
--
-
 ----
 
 ## So What? 
-Small group discussion.
+Small group discussion.    
+
 1) What are 3 main points that you take away from these data?
 &nbsp;
 
@@ -122,7 +115,7 @@ Small group discussion.
 &nbsp;
 
 
-#Back together to share ~ capture on white board 
+###  Whole Class Discussion  
 
 
 
