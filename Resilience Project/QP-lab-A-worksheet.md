@@ -140,11 +140,6 @@ Small group discussion.
 
 &nbsp;
 
-###Who is in your workgroup?
-&nbsp;
-
-&nbsp;
-
 ###What is your hypothesis for the experiment?
 &nbsp;
 
@@ -153,13 +148,6 @@ Small group discussion.
 &nbsp;
 
 ###How will you test your hypothesis?
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#####How many animals will you use?
 &nbsp;
 
 &nbsp;
@@ -180,13 +168,6 @@ Small group discussion.
 
 &nbsp;
 
-#####What will be your control group?
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ###List all the equipment you will need. 
 &nbsp;
 
@@ -200,6 +181,9 @@ Small group discussion.
 
 &nbsp;
 
-
-##Don't forget the reading online. Choose 1 paper and write a short review of it on the discussion board (No more than 1 paragraph). We will discuss these papers during the next Quarter Project Lab. If you have any questions or concerns, ask them on the discussion board!
+##Readings
+ - Each person from each group will choose 1 of the 4 papers to read so that the group has read all 4 papers.
+ - Post a short summary of the paper on the discussion board (no more than 1 paragraph)
+ - We will discuss these papers during the next Quarter Project Lab.
+ - If you have any questions or concerns, ask them on the discussion board!
 
