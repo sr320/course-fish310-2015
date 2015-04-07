@@ -159,4 +159,4 @@ Stuff we have (or could easily generate) that has not been looked at..
 
 &nbsp;
 
-##Don't forget the reading online. Choose 2 papers and write a short review of each on the discussion board (No more than 1 paragraph per paper). We will discuss these papers during the next Quarter Project Lab. If you have any questions or concerns, ask them on the discussion board!
+##Don't forget the reading online. Choose 1 paper and write a short review of it on the discussion board (No more than 1 paragraph). We will discuss these papers during the next Quarter Project Lab. If you have any questions or concerns, ask them on the discussion board!
