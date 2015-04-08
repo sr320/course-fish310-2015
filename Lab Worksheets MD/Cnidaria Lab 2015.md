@@ -3,23 +3,25 @@ Name:____________________
 Fish310 <br>
 Spring 2015
 
-Organisms: 
-- Representative members of hydrozoa (thecate and athecate), anthozoa, and scyphozoa
+Organisms:
+
+- Representative members of hydrozoa, anthozoa, and scyphozoa
 - Live Metridium
 - Brine shrimp larvae
 - Preserved cnidaria specimens
 
-Equipment needed (in addition to generic)
+Special equipment:
+
 - Compound microscopes
 - Dissecting microscopes
 - Dilute acetic acid
-- Particles for feeding if no brine shrimp larvae
+- brine shrimp larvae or other particles for feeding 
 - Lined bucket for mort waste (biohazard bags necessary?)
 
 ---
 			
 #Introduction to Cnidarians
-In today’s lab we will be observing members of the phylum Cnidaria. You will become familiar with the external and internal anatomy of 3 representative classes; Hydrozoa, Anthozoa, and Scyphozoa.  A live sea anemone (Metridium) dissection will be performed; please work in groups to conserve animals. All animals have been anesthetized prior to dissection. Remember to walk around the room and check out other people’s dissections and/or wet mounts. They may be able to see something you didn’t or you may be able to offer insight.    
+In today’s lab we will be observing members of the phylum Cnidaria. You will become familiar with the external and internal anatomy of 3 representative classes: **Hydrozoa**, **Anthozoa**, and **Scyphozoa**.  A live sea anemone (_Metridium spp._) dissection will be performed; please work in groups to conserve animals. All animals have been anesthetized prior to dissection. Remember to walk around the room and check out other people’s dissections and/or wet mounts. They may be able to see something you didn’t or you may be able to offer insight.    
 
 Cnidarians (“cnida” = nettle or stinging thread) are a plylum with ~10,000 living species described, almost entirely marine. Common cnidarians include jellyfish, corals, sea anemones, box jellies, fire corals, sea pens, and sea pansies. Two strikingly different body plans are found among cnidarians: a polyp form (typically asexual and benthic) and a medusa form (typically sexual and planktonic/pelagic). Some members of the phylum have both a polyp and medusa stage. Most cnidarians have radial symmetry, although sea pens have bilateral symmetry. Cnidarians do not have a head and are situated on an oral-aboral axis. Despite differences in body plans, both polyps and medusa share the same basic body construction; 2 layers of epithelium (=ectoderm) and gastrodermis (=endoderm)) with mesoglea in between. Mesoglea is made of secreted mucopolysaccharides, collagen, and water and is not a true tissue. 
 
@@ -42,7 +44,7 @@ Cnidarians (“cnida” = nettle or stinging thread) are a plylum with ~10,000 l
 
  
 ###Class Hydrozoa
-The class Hydrozoa contains ~3,000 mostly marine species and is comprised of 3 major orders: Hydroida, Siphonophora, & Hydrocorallina. Hydrozoans are typically small (mm-cm) and have both polyp and medusa life stages, with one often reduced or lost. In contrast to other cnidarians, the gastrodermal tissue of hydrozoans lacks nematocysts (restricted to epidermis) and no cells are found within the mesoglea.
+The class Hydrozoa contains ~3,000 mostly marine species and is comprised of 3 major orders: **Hydroida**, **Siphonophora**, & **Hydrocorallina**. Hydrozoans are typically small (mm-cm) and have both polyp and medusa life stages, with one often reduced or lost. In contrast to other cnidarians, the gastrodermal tissue of hydrozoans lacks nematocysts (restricted to epidermis) and no cells are found within the mesoglea.
 
 ![](http://www.thanasisaquarium.gr/Images/Various/obelia_cycle.gif)
  
@@ -64,10 +66,10 @@ The class Hydrozoa contains ~3,000 mostly marine species and is comprised of 3 m
 &nbsp;
 
 ###Class Anthozoa
-Anthozoa is the only class of Cnidarians who never have a medusa stage; they are polyps only!
+Anthozoa is the only class of cnidarians who never have a medusa stage; they are polyps only!
 
 
-#####Look carefully at the external anatomy of the local sea anemone, Metridium  *spp?*, under a dissecting scope. Draw and label external structures: mouth, tentacles, pedal disc, epidermis, and acrorhagi. 
+#####Look carefully at the external anatomy of the local sea anemone, _Metridium  spp._, under a dissecting scope. Draw and label external structures: mouth, tentacles, pedal disc, epidermis, and acrorhagi. 
 &nbsp;
 
 &nbsp;
@@ -86,7 +88,7 @@ Anthozoa is the only class of Cnidarians who never have a medusa stage; they are
 
 &nbsp;
 
-#####Now it’s time for dissections! An incision along the oral-aboral axis is probably most informative. Draw the internal anatomy, referencing the handout provided. Please identify internal structures like the pharynx, siphonoglyph, mestenteries, and gonad. 
+#####Now it’s time for _Metridium_ dissections! An incision along the oral-aboral axis is probably most informative. Draw the internal anatomy, referencing the handout provided. Please identify internal structures like the pharynx, siphonoglyph, mestenteries, and gonad. 
 &nbsp;
 
 &nbsp;
@@ -124,7 +126,7 @@ Anthozoa is the only class of Cnidarians who never have a medusa stage; they are
 
 &nbsp;
 
-#####Look at a thin section tentacle of _Anthopleura elegantissima_ in a wet mount. This anemone sometimes has two types of algal symbionts that you can distinguish by size and color – zoochlorellae (single-celled green algae) are green and 6-8µm in diameter and zooxanthellae (dinoflagellate of the genus Symbiodinium) are olive-brown and 10-12µm in diameter. Which do you see? 
+#####Look at a thin section of tentacle of _Anthopleura elegantissima_ in a wet mount. This anemone sometimes has two types of algal symbionts that you can distinguish by size and color – zoochlorellae (single-celled green algae) are green and 6-8µm in diameter and zooxanthellae (dinoflagellate of the genus Symbiodinium) are olive-brown and 10-12µm in diameter. Which do you see? 
 &nbsp;
 
 &nbsp;
@@ -137,11 +139,6 @@ Anthozoa is the only class of Cnidarians who never have a medusa stage; they are
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 #####Make sure to check out various defensive/offensive structures – acontia in Metridium, and acrorhagi in Anthopleura. Observe deployment of these in live animals on demonstration.
 &nbsp;
@@ -177,7 +174,7 @@ The class Scyphozoa contains only a few hundred species, all of which are marine
 
 &nbsp;
 
-#####The club shaped structures that contain sensory tissues such as ocelli and statocysts are called what? Where are they located? 
+#####The club-shaped structures that contain sensory tissues such as ocelli and statocysts are called what? Where are they located? 
 &nbsp;
 
 &nbsp;
