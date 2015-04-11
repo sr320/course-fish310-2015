@@ -94,7 +94,7 @@ Date |	Lecture |	Readings | lab | week
 4/6	 | L4 - [Protozoa](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec4.pdf)	 | Chapter 3    | [_Lab Intro_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Lab%202015.md) | **two**
 4/8	 | L5 - [Porifera](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec5.pdf)	 | Chapter 4 | [_Quarter Project A_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-A-worksheet.md)
 4/10	 | L6 - [Cnidaria](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec6.pdf)   |  Chapter 6; [Coral Paper](https://github.com/sr320/course-fish310-2015/raw/master/Readings/cnidarian-decadal-memory.pdf) 
-4/13	 | Cnidaria	 | Chapter 6 | [_Intro to Cnidaria_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
+4/13	 | L7 - [Cnidaria]((https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec7.pdf))	 | Chapter 6 | [_Intro to Cnidaria_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
 4/15	 | Corals/symbionts - Dr. Closek   | Chapter 6 | _Quarter Project B_
 4/17	| Mollusca	 | Chapter 12
 4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
