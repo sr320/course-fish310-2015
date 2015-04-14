@@ -56,3 +56,13 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 - How can you integrate the reading into the experiment?
 
 
+##Class Experiment
+
+What equipment do you need for your experiment? 
+
+How long is your treatment time?
+
+What are your treatment levels?
+
+##Group Measurements
+
