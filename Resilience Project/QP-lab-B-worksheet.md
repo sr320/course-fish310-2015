@@ -57,12 +57,21 @@ Throughout this quarter (~5 lab periods) we will be tackling a larger research q
 
 
 ##Class Experiment
+~Class Discussion~
 
-What equipment do you need for your experiment? 
+- What equipment do you need for your experiment? 
 
-How long is your treatment time?
+- How long is your treatment time?
 
-What are your treatment levels?
+- What are your treatment levels?
 
 ##Group Measurements
+~Team Discussion~
 
+- What is your group's hypothesis about this experiment
+
+- What will your group measure?
+
+- What will this measurement tell you about the animals reaction to stress?
+
+- What equipment will you need to make these measurements?
