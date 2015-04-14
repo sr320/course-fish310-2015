@@ -11,8 +11,9 @@ Equipment:
 - Your understanding of the reading
 - Decision on the experiment
 
-Agenda:
+**Agenda**
 
+- Opening Comments
 - Paper discussion with classmates that read the same paper you read
 - Discussion with your group about your paper
 - Class discussion of papers
@@ -20,6 +21,14 @@ Agenda:
 - Discussion with your group about measurements you will take
 - Class discussion about measurements
 
+# How different are the native oysters across Puget Sound?
+### Quarter Project - Lab B
+
+Throughout this quarter (~5 lab periods) we will be tackling a larger research question; populations of the Olympia oyster (_Ostrea lurida_) across Puget Sound are phenotypically  distinct. As a class we will be developing experiments to test new hypotheses and possibly analyzing dataset in new ways.  In today's lab (Quarter Project - Lab B) we will: 
+
+Discuss the types of things your group can measure
+Finalize the experiment the class will run
+Generate a list of equipment needed for the experiment
 
 
 
@@ -27,35 +36,20 @@ Agenda:
 
 ~First paper discussion~
 
-What were three main points for the paper you read?
+- What were three main points for the paper you read?
 
-How did the author come to these conclusions? 
+- How did the author come to these conclusions? 
 
-What might you do to create an experiment based on this paper?
+- What might you do to create an experiment based on this paper?
 
 ~Team paper discussion~
 
-How can you inte
+- What is the common theme of the readings?
+
+- How might these readings relate to each other?
+
+- What does this mean for your experiment?
+
+- How can you integrate the reading into the experiment?
 
 
-=======
-
-Name:______________________
-
-_Fish310 Spring 2015_
-
-Equipment needed: your brain
-
-
-**Agenda**
-
-- Opening Comments
-
-
----
-
-# How different are the native oysters across Puget Sound?
-### Quarter Project - Lab B
-
-Throughout this quarter (~5 lab periods) we will be tackling a larger research question; populations of the Olympia oyster (_Ostrea lurida_) across Puget Sound are phenotypically  distinct. As a class we will be developing experiments to test new hypotheses and possibly analyzing dataset in new ways.  In today's lab (Quarter Project - Lab B) we will:     
->>>>>>> 9866b08b7447b89e1aa0b8020e58d7cf64d4100a
