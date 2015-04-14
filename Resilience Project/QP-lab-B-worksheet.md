@@ -14,64 +14,61 @@ Equipment:
 **Agenda**
 
 - Opening Comments
-- Paper discussion with classmates that read the same paper you read
-- Discussion with your group about your paper
+- Paper discussion with classmates that read the same paper
+- Discussion with your group about readings
 - Class discussion of papers
-- Finalize the experiment for the class
-- Discussion with your group about measurements you will take
+- Finalize the treatment for the class
+- Discussion with your group about measurements
 - Class discussion about measurements
 
 # How different are the native oysters across Puget Sound?
 ### Quarter Project - Lab B
 
-Throughout this quarter (~5 lab periods) we will be tackling a larger research question; populations of the Olympia oyster (_Ostrea lurida_) across Puget Sound are phenotypically  distinct. As a class we will be developing experiments to test new hypotheses and possibly analyzing dataset in new ways.  In today's lab (Quarter Project - Lab B) we will: 
-
+Throughout this quarter (~5 lab periods) we are tackling a larger research question: are populations of the Olympia oyster (_Ostrea lurida_) across Puget Sound phenotypically  distinct? As a class, we will be developing experiments to test new hypotheses related to the phenotypic difference between populations.  In today's lab (Quarter Project - Lab B) we will: 
 
 - Finalize the experiment the class will run
-- Generate a list of equipment needed for the experiment
-- Discuss the types of things your group can measure
+- Generate a list of necessary equipment
 - Decide what your group will measure
 - Prep for your experiment
 
 
-
 ##Readings
 
-~First paper discussion~
+~ Paper discussion~
 
-- What were three main points for the paper you read?
+- What were three main points of the paper you read?
 
 - How did the author come to these conclusions? 
 
-- What might you do to create an experiment based on this paper?
+- How would you create an experiment based on this paper?
 
 ~Team paper discussion~
 
 - What is the common theme of the readings?
 
-- How might these readings relate to each other?
+- How do these readings relate to each other?
 
-- What does this mean for your experiment?
+- What did you learn that will help during experimental design?
 
-- How can you integrate the reading into the experiment?
-
+- How will you integrate the reading into the experiment?
 
 ##Class Experiment
 ~Class Discussion~
+- What is the treatment? What is the control?
 
-- What equipment do you need for your experiment? 
+- How long is your treatment time?  Why?
 
-- How long is your treatment time?
+- What are your treatment levels? Why?
 
-- What are your treatment levels?
+- What equipment is necessary? 
 
 ##Group Measurements
 ~Team Discussion~
 
-- What is your group's hypothesis about this experiment
+- What is your hypothesis? What are the predictions of this hypothesis?
 
-- What will your group measure?
+- How will you test your hypothesis, what will you measure?
 
-- What will this measurement tell you about the animals reaction to stress?
+- What will we learn about differences between populations of _Ostrea lurida_?
 
-- What equipment will you need to make these measurements?
+- What equipment will you need?
