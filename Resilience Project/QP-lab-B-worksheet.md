@@ -26,9 +26,12 @@ Equipment:
 
 Throughout this quarter (~5 lab periods) we will be tackling a larger research question; populations of the Olympia oyster (_Ostrea lurida_) across Puget Sound are phenotypically  distinct. As a class we will be developing experiments to test new hypotheses and possibly analyzing dataset in new ways.  In today's lab (Quarter Project - Lab B) we will: 
 
-Discuss the types of things your group can measure
-Finalize the experiment the class will run
-Generate a list of equipment needed for the experiment
+
+- Finalize the experiment the class will run
+- Generate a list of equipment needed for the experiment
+- Discuss the types of things your group can measure
+- Decide what your group will measure
+- Prep for your experiment
 
 
 
