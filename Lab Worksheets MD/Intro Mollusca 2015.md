@@ -2,7 +2,8 @@ Name: _____________________________
 
 Fish 310 Spring 2015
 
-Animals needed: 
+Animals needed:
+ 
 - Representatives of 5 classes of molluscs—can be **LIVE** or preserved, as appropriate (animals A-E)
 - Polyplacophora (chiton) **LIVE**
 - Cephalopoda (squid, octopus or cuttlefish)
