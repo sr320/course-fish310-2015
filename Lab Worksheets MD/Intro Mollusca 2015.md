@@ -27,10 +27,16 @@ Animals needed:
 - Moonsnail
 
 Equipment needed:
+
 - Dissecting Scopes
 
+**Agenda**
 
-#Introduction to the Phylum Mollusca, emphasis on Polyplacophora
+- Quick Presentation
+- Station Rotation
+- Class Discussion
+- 
+#Introduction to the Phylum Mollusca 
 
 The phylum Mollusca is a highly diverse group of animals found in marine, terrestrial, and freshwater ecosystems. The diversity of this group, which includes land snails, geoduck clams, and octopuses, can make it difficult to identify features common to the entire phylum. Today you will examine a number of interesting molluscs, look at the features that unite them and some of their adaptations, and learn to identify the major groups of molluscs. You will examine individuals from 5 of the 7 Molluscan classes.  
 
