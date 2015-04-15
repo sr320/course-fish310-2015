@@ -3,11 +3,12 @@ Name:____________________
 Fish310
 Spring 2015
 
-Organisms: 
-- LIVE Several representative members of hydrozoa (thecate and athecate), anthozoa, and scyphozoa
+Organisms:
+
+- LIVE representative members of hydrozoa (thecate and athecate), anthozoa, and scyphozoa
 - LIVE 18 Anthopleura
 - Brine shrimp larvae
-- Any preserved cnidaria specimens
+- Preserved cnidaria specimens
 
 Scientific Equipment:
 - scopes
