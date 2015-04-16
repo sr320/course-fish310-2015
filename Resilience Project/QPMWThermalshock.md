@@ -31,7 +31,7 @@ Metabolic Rate
 citrate synthase
 
 **Crabs**
-Recovery of 'normal' mmetabolism
+Recovery of 'normal' metabolism
 
 Housekeeping Gene Concentrations
 
