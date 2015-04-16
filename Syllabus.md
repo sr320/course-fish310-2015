@@ -61,7 +61,8 @@ Lab Worksheets | 10  | due each lab
 Lab Practicals  | 10 | two in lab assessements    
 Lab Quarter Project | 10 | writing + presentation
 
---- 
+---    
+
 Attendance Policy - Attendance in lecture is not directly recorded however  quizzes and class repsonses are given via Tophat.  Given the degree of live animals, set-up, and support services, there will be no make up labs. Please get to know your labmates as you will be responsible for material. 
 
 The two exams will consist of:		
@@ -95,12 +96,12 @@ Date |	Lecture |	Readings | lab | week
 4/8	 | L5 - [Porifera](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec5.pdf)	 | Chapter 4 | [_Quarter Project A_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-A-worksheet.md)
 4/10	 | L6 - [Cnidaria](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec6.pdf)   |  Chapter 6; [Coral Paper](https://github.com/sr320/course-fish310-2015/raw/master/Readings/cnidarian-decadal-memory.pdf) 
 4/13	 | L6 - [Cnidaria]((https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec6.pdf))	 | Chapter 6 | [_Intro to Cnidaria_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Cnidaria%20Lab%202015.md) | **three**
-4/15	 | Corals/symbionts - Dr. Closek   | Chapter 6 | [_Quarter Project B_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-B-worksheet.md)
-4/17	| Mollusca	 | Chapter 12
-4/20	 | Mollusca	 | Chapter 12 | _Mollusc 1: Introduction to Molluscs_ | **four**
+4/15	 | Coral Health - Dr. Closek   | Chapter 6 | [_Quarter Project B_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-B-worksheet.md)
+4/17	| L7 - [Cnidaria](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec7.pdf)	 | Chapter 6 | 
+4/20	 | L8 - [Mollusca](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec8.pdf)	 | Chapter 12 | [_Mollusc 1: Introduction to Molluscs_ ](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Mollusca%202015.md) | **four**
 4/22	 | Mollusca	 | Chapter 12 | _Mollusc 2: Bivalves_
 4/24	 | Mollusca	 | Chapter 12 
-4/27	 | Mollusca Freshwater  | Chapter 12 | _Quarter Project C_ | **five**
+4/27	 | Mollusca  | Chapter 12 | _Quarter Project C_ | **five**
 4/29	 | Review	 | | _Mollusc 3: Gastropods / Cephalopods_
 5/1	 | Exam 1	 |
 5/4	 | Arthropoda | 	Chapter 14 | _Lab Midterm Exam_ | **six**
