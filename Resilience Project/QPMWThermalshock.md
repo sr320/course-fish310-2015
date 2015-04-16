@@ -4,7 +4,7 @@ Animals kept at 8&deg;C for 3 weeks prior to experiment fed on a daily basis.
 ##Experiment
 15 Dabob and 15 Oyster bay oysters in a closed treatment aquarium system. 
 
-The temperature will gradually be raised from 8 to 35 C over one hour. 
+The temperature will gradually be raised from 8 to 35&deg;C over one hour. 
 
 The animals will then be held at 35&deg;C for 1 hour. 
 
@@ -31,9 +31,11 @@ Metabolic Rate
 citrate synthase
 
 **Crabs**
+Recovery of 'normal' mmetabolism
+
 Housekeeping Gene Concentrations
 
-glutamine synthetase
+candidate gene: glutamine synthetase
 
 **Immortal Jellyfish**
 Return to Baseline metabolism
