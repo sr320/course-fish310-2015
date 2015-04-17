@@ -5,11 +5,15 @@ Fish 310 Spring 2015
 
 #Bivalve anatomy and classification 
 
-Mussels, oysters, clams, and scallops are members of a bivalve group formerly called the Lamellibranchia (now divided into Pteriomorphia, Paleoheterodonta, and Heterodonta). These animals use their ctenidia (gills) to filter tiny food particles such as bacteria, diatoms, unicellular algae, and detritus from the water.  The particles are then transported by cilia along food grooves to sorting structures called labial palps and into the mouth. Members of this group have ctenidia with long filaments that fold back on themselves so that each row forms two lamellae (hence the name, Lamellibranch- “branch” means gill.) Lamellibranchs are separated into two groups based on the structure of their ctenidia:
+Mussels, oysters, clams, and scallops are all members of the class bivalvia and are divided into the subclasses Pteriomorphia (oysters, scallops, saltwater mussels), Heterodonta (edible clams), and Paleoheterodonta(freshwater mussels).  This class was formerly known as Lamellibranchiata.
 
-•	Filibranchs: or “thread gills”, include mussels, oysters, scallops and jingle shells. In this group the filaments making up the gill are attached to each other by ciliary tufts (think of it like interlocking hairs or Velcro). Bivalves of this group are often attached to hard substrates with byssal threads or cement.
+Most bivalves use their **ctenidia** (modified gills) to filter tiny food particles such as bacteria, diatoms, unicellular algae, and detritus from the water.  The particles are then transported by cilia along food grooves to sorting structures called labial palps and into the mouth. These ctenidia have long filaments that fold back on themselves so that each row forms two lamellae (hence the name 'Lamellibranch'; 'branch' means gill.) 
 
-•	Eulamellibranchs: include clams and their relatives. Their ctenidial filaments are connected with tissue bridges. Members of this group often have very distinct inhalant and exhalent siphons and are often found buried in the sediment.
+Filter feeding Bivalves are divided into two groups based on the structure of their ctenidia:
+
+•	**Filibranchs**: or “thread gills”, include mussels, oysters, scallops and jingle shells. In this group, the filaments making up the gill are attached to each other by ciliary tufts (think of it like interlocking hairs or Velcro). Bivalves of this group are often attached to hard substrates with byssal threads or cement.
+
+•	**Eulamellibranchs**: include clams and their relatives. Their ctenidial filaments are connected with tissue bridges. Members of this group often have very distinct inhalant and exhalent siphons and are often found buried in the sediment.
 
 ##Part I:  Filibranch Dissection
 ###Before you begin, carefully examine a cleaned mussel shell. In the space below draw the inside of the right valve and label the following features: umbo, hinge ligament, posterior adductor muscle scar, pallial line, and indicate the dorsal and ventral sides.
@@ -48,7 +52,7 @@ Discard the right valve and place the left valve with the animal contained in it
 Posteriorly the right and left mantle lobes together form the inhalant and exhalant siphons of the mussel. Neither of the two siphons is distinct. Rather, they are modified areas of the mantle margin.  
 
 
-###Based on the structure of the shell and the siphons of the mussel would you expect to find them deeply buried in the sediment?  Explain. 
+###Based on the structure of the shell and the siphons of the mussel, would you expect to find mussels deeply buried in the sediment?  Explain. 
 &nbsp;
 
 &nbsp;
@@ -92,7 +96,7 @@ Use scissors to remove the right mantle lobe and expose the right ctenidium and 
 
 
 
-###Fill in the blanks: In a filibranch there are a total of (number) ______ holobranchs, ________ demibranchs, and __________ lamella. 
+###Fill in the blanks: In a filibranch there are a total of: (number) ______ holobranchs, ________ demibranchs, and __________ lamella. 
 
 Identify the mouth, labial palps, and foot of the mussel. Put the mussel and the dish under a dissecting scope and examine the ctenidia closely. Place a **very tiny** droplet of food coloring along the bottom edge of the gills and observe the movement of water. Now drop a small amount of yeast on the surface of the gills and watch the path of the particles over the gills.    
 
@@ -216,7 +220,7 @@ As with the mussel, the clam gill is made up of filaments. However, clam gill fi
 
 ###Examine the shells representing the following different families of bivalves and try to discern what distinguishes each group (list the distinguishing features). Remember that features in the hinge area are often very important.
 
-####You should be able to recognize and give the common name of the taxa listed below.
+####You should be able to recognize and give the common name of the taxa listed below:
 
 **Veneridae**: 
 
