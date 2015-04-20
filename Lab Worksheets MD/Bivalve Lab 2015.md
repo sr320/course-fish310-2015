@@ -2,6 +2,19 @@ Name:________________
 
 Fish 310 Spring 2015
 
+Biological supplies:
+
+- **live** mussels
+- clean mussel shell
+- example bivalve shells
+
+Supplies
+
+- dissecting microscope & lights
+- dissection materials: scalpel, lab spatula, tray 
+- compound microscope / glass slides
+- yeast / chalk / food coloring
+
 
 #Bivalve anatomy and classification 
 

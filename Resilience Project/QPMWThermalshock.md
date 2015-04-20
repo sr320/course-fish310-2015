@@ -43,3 +43,20 @@ Test oysters once an hour for the first 6 hours
 Test again after 24 hours
 
 citrate synthase
+
+## Treatment details
+we provide ambient and hot 35&deg;C water, and buckets
+Students figure out how to manage treatment over the class period.
+end with tissue/ RNA samples from 5 oysters from each group.
+
+need:
+temperature logger
+buckets
+hot seawater
+thermometer
+
+Other:
+QPR background provided to student for next lab.
+QPR standardization procedure.
+
+
