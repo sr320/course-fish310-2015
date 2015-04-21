@@ -99,7 +99,7 @@ Date |	Lecture |	Readings | lab | week
 4/15	 | Coral Health - Dr. Closek   | Chapter 6 | [_Quarter Project B_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-B-worksheet.md)
 4/17	| L7 - [Cnidaria](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec7.pdf)	 | Chapter 6 | 
 4/20	 | L8 - [Mollusca](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec8.pdf)	 | Chapter 12 | [_Mollusc 1: Introduction to Molluscs_ ](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Mollusca%202015.md) | **four**
-4/22	 | Mollusca	 | Chapter 12 | _Mollusc 2: Bivalves_
+4/22	 | NO CLASS L9 - [Mollusca](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec9.pdf) - see recording	 | Chapter 12 | [_Mollusc 2: Bivalves_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Bivalve%20Lab%202015.md)
 4/24	 | Mollusca	 | Chapter 12 
 4/27	 | Mollusca  | Chapter 12 | _Quarter Project C_ | **five**
 4/29	 | Review	 | | _Mollusc 3: Gastropods / Cephalopods_
