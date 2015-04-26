@@ -1,19 +1,14 @@
-Name: __________________
 
-Fish 310 Spring 2015
+Name: __________________________                 -   Fish 310 Spring 2015
 
 #Quarter Project Lab C
 
-Equipment:
-
-- Your brain
-- Treatment Plan
-- Measurement Scheme
 
 **Agenda**
 
 - Opening Comments
 - Run treatment
+- Sample oysters
 - Finalize Measurement Scheme
 
 # How different are the native oysters across Puget Sound?
