@@ -1,6 +1,33 @@
 Name: ______________________
 
-Fish 310 Spring 2015				
+Fish 310 Spring 2015
+
+Biological supplies:
+
+- Gastropods
+	- **live** land snail (Helix)
+	- Nudibranchs (Opisthobranchia)
+	- Prosobranchia
+		- Vetigastropoda, 
+		- Patellogastropoda, 
+		- Caenogastropoda (suborders Mesogastropoda and 
+			- **live** Neogastropoda
+
+- Cephalopods
+	- dissected squid
+	- preserved octopus and squid
+	- cuttlebones
+	- paper nautilus to the chambered nautilus
+
+- mussel tissue
+
+Supplies
+
+- dissecting microscope & lights
+- dissection materials: scalpel, lab spatula, tray
+- compound microscope / glass slides
+- flour 
+		
 
 #Class Gastropoda
 
