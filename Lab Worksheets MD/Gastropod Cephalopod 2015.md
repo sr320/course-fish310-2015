@@ -69,29 +69,6 @@ Since they lack a protective shell, nudibranchs must rely on other methods of de
 
 &nbsp;
 
-###Examine the different species of nudibranchs. Draw your favorite and label the following (where applicable): 
-- rhinophores
-- cephalic tentacles
-- gills
-- mouth
-- cerata
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-###How are nudibranchs different from terrestrial slugs? 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ##Subclass Prosobranchia
 
 The prosobranch gastropods include the majority of marine snails, among them conches, cones, cowries, limpets, murexes, periwinkles, volutes and whelks, as well as numerous freshwater groups, and some land snails with an operculum. The operculum is a thick plate situated on the dorsal surface of the foot. In many prosobranchs, the snail can completely close the aperture with the operculum when the body is retracted into the shell. 
