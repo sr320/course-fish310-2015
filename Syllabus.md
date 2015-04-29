@@ -102,7 +102,7 @@ Date |	Lecture |	Readings | lab | week
 4/22	 | NO CLASS L9 - [Mollusca](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec9.pdf) - see recording	 | Chapter 12 | [_Mollusc 2: Bivalves_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Bivalve%20Lab%202015.md)
 4/24	 | Mollusca - Abalone; Crosson	 | Chapter 12 
 4/27	 | L10 - [Mollusca](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec10.pdf)  | Chapter 12 | [_Quarter Project C_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-C-worksheet.md) | **five**
-4/29	 | L11 - [Mollusca](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec11.pdf)	 | | [_Mollusc 3: Gastropods / Cephalopods_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Gastropod%20Cephalopod%202015.md)
+4/29	 | L11 - [Mollusca](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec11.pdf)	 | Chapter 12  | [_Mollusc 3: Gastropods / Cephalopods_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Gastropod%20Cephalopod%202015.md)
 5/1	 | Review	 |
 5/4	 | Exam 1 | 	- | _Lab Midterm Exam_ | **six**
 5/6	 | Arthropoda	 | Chapter 14 | _Intro to Arthropoda_
