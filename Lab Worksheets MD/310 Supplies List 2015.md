@@ -104,18 +104,8 @@ Equipment needs:
 - Dissecting scopes
 
 
-###May ??
-####Crustacean 2: Crab Dissection
-Equipment Needs:
-
-- Dissecting Scopes
-- Compound Scopes
-- Bucket with bag for mort trash
-
-
-
 ###May 13-14
-####Crustacean 3: Crustacean Development/ Mysids/ Euphausiids/ Copepods/ Branchiopoda/ Shrimplike critters
+####Crustacean 2: Crustacean Development/ Mysids/ Euphausiids/ Copepods/ Branchiopoda/ Shrimplike critters
 
 Equipment Needs:
 
@@ -150,22 +140,6 @@ Equipment Needs:
 
 ###May 25-26
  NO LAB
-
-###May ??? 27-28
-####Shellfish Parasites
-Histo slides:
-
-- healthy abalone (Friedman)
-- WS abalone (Friedman)
-- Perkinsus oyster (Friedman)
-- WSSV shrimp (Friedman)
-
-Preserved:
-
-- Whale barnacle
-- Fish louse
-- parasitic isopod
-- Rhizocephalan barnacle
 
 
 ###June 3-4
