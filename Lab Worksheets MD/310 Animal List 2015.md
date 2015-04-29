@@ -58,7 +58,7 @@ Animals needed:
 - **LIVE** Nudibranchs
 - **LIVE** Neogastropods
 
-###May 5-6
+###May 6-7
 ####Arthropoda/ Crustacea 1: Introduction
 Animal needs: 
 
@@ -77,15 +77,9 @@ Animal needs:
 - Crab (large, preserved or **LIVE**)
 - **LIVE** Barnacles
 
-###May ??
-####Crustacean 2: Crab Dissection
-Animal Needs:
-
-- **LIVE** Enough large crabs (Cancer spp. and/or Pugettia producta) for dissection (~18)
-
 
 ###May 13-14
-####Crustacean 3: Crustacean Development/ Mysids/ Euphausiids/ Copepods/ Branchiopoda/ Shrimplike critters
+####Crustacean 2: Crustacean Development/ Mysids/ Euphausiids/ Copepods/ Branchiopoda/ Shrimplike critters
 Animal Needs:
 
 - **LIVE** Large crab
@@ -122,12 +116,6 @@ Animal Needs:
 - **LIVE** Other species of cucumbers (Parastichopus and ??)
 - **LIVE** Brittlestars
 
-###May ?? 27-28
-####Shellfish Parasites
-Animal needs:
 
-- Isopod **LIVE**
-- **LIVE** shrimp carrying a bopyrid isopod parasite on its abdomen/gill-**LIVE**
-- Any other cool examples of crustacean parasites
 
 
