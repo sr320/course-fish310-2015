@@ -1,4 +1,3 @@
-#Spring 2015 Fish 310 MidTerm Practical
 
 ##Station 1
 Helix Snails
