@@ -13,7 +13,7 @@ Helix Snails
 
 
 ##Station 3
-Mussel 
+Mussel      
 1. Draw a mussel (shell) and label the placement of the adductor muscles       
 2. Where is the umbo?
 
