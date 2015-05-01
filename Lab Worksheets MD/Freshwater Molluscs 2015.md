@@ -1,24 +1,41 @@
 
-##Station 1
+##Station 
 Helix Snails
 
 1. Gastropods undergo **this** during development which places their anal pore over their head?
 2. Snails such as these helix snails use **this** anatomical feature common in molluscs to feed?
 
 
-##Station 2
+##Station 
 
 
 
 
 
-##Station 3
+##Station 
 Mussel      
 1. Draw a mussel (shell) and label the placement of the adductor muscles       
 2. Where is the umbo?
 
 
 
+
+
+
+
+##Station     
+Squid     
+1. What is two means by which a squid can move through the water?      
+
+
+
+
+
+
+
+##Station     
+Olympia oyster        
+1. What are two characteristics that distinguish the Olympia oyster from the Pacific Oyster?
 
 
 
