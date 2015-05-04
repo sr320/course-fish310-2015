@@ -65,3 +65,20 @@ There are 5 orders of Malacostracans: Isopoda, Amphipoda, Euphasiacae, Stomatopo
 
 ####Note the gills on the pleopods of the stomatopods & isopods. Name one advantage and disadvantage to this design.
 
+####Observe the representatives of the remaining crustacean subclasses. We will be covering these groups in detail in the coming weeks so it is important for you to be familiar with them. Which of the four subclasses do you find most interesting? Why?
+
+##Subclass Branchiopoda
+
+Branchiopods are a diverse group of small, primarily freshwater crustaceans and include water fleas (*Daphnia*) and brine shrimp (*Artemia*). Branchiopods have thoracic appendages modified to form large flattened paddles which functions in gas exchange and locomotion, giving rise to the name of the subclass (branchio = gill; pod = foot) 
+
+##Subclass Ostracoda
+
+Ostracods are small and widespread crustaceans common in both marine and freshwater, as well as a few species exploiting terrestrial habitats. A unique feature of ostracods is that their head and body are enclosed in a partially calcified, bivalve-like carapace. Most species are free living, although some are commensal with other crustaceans or with certain echinoderms. 
+
+##Subclass Copepoda
+
+Copepods are among the most abundant animals on Earth. Most of the approximately 8,500 species are marine and feed on unicellular phytoplankton. Copepods form a major component of zooplankton and are at the base of the oceanic food chain. In contrast to many other crustaceans, copepods lack gills and abdominal appendages. 
+
+##Subclass Cirripedia
+
+Members of this subclass are exclusively marine and show a greater departure from the basic body plan than the members of any other subclass. All cirripedes (barnacles) are highly modified for attachment to hard substrates, including the outer surfaces of other animals, or for a parasitic lifestyle. Barnacles lack abdominal segments, gills, and a heart. They have modified thoracic appendages called cirri used for filter feeding and a shell composed of numerous plates. 
