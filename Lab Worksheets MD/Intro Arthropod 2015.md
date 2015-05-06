@@ -2,6 +2,35 @@ Name:______________
 
 Fish 310 Spring 2015
 
+Animals:
+
+- Chelicerates
+- **LIVE** 1 big terrestrial spider
+- Horshoe crab
+- Crustaceans
+- Pericarida
+- **LIVE** Isopod
+- Amphipod
+- Pillbug
+- Eucarida
+- **LIVE** shrimp
+- Shrimp (large, preserved)
+- **LIVE** hermit crabs
+- Crab (large, preserved or **LIVE**)
+- **LIVE** Barnacles
+
+Supplies:
+
+- Dissecting scopes
+- Compound scopes
+
+Agenda:
+
+- Opening Comments
+- Station Work
+- Class Discussion
+
+
 #Introduction to Arthropods
 
 In today's lab we will examine the arthropods, a phylum that includes insects, spiders, centipedes, and crustaceans. These groups are united by some key characteristics, and as you will see are strikingly different than the cnidarians and molluskans you have already studied. A defining characteristic of arthropods is that they have a segmented, jointed, and hard chitonous exoskeleton secreted by the epidermis with intrinsic musculature between individual joints of appendages. Arthropods are divided into separate groups based on the number and structure of their segments as well as the types and number of appendages they have. Therefore, it is important to become familiar with their morphological characteristics. 
