@@ -4,6 +4,23 @@ Fish 310 Spring 2015
 
 #Class Crustacea: Senses, Development, and more Taxonomy
 
+Supplies
+ 
+	- *LIVE* crab
+	  - setae from crabs
+	- *LIVE*  Crangon shrimp
+	- preserved phyllosoma larva of a spiny lobster
+	- samples from the fresh and salt water plankton tows
+		- live barnacle nauplius from the salt water plankton tow
+		- live brachyuran crab zoea from the salt water plankton tow
+		- brine shrimp (Artemia)
+		- copepods
+		- Live shrimp (Crangon, from the infraorder caridea)
+- - - - - - - -
+	- counter / timer
+	- mussel juice
+	- baster
+	- bowls of water that has sand
 ##Crustacean Senses
 
 **Chemoreception**: Chemoreception in crabs occurs in specialized sensory “hairs” (setae) that tend to be concentrated on the first antennae, the mouthparts, and the dactyls of crabs.  Specialized sensory setae called aesthetascs on the first pair of antennae are primarily responsible for the sense of smell in decapod crustaceans. 
