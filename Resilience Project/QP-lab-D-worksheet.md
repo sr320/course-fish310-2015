@@ -26,6 +26,20 @@ Agenda:
 - Discuss groups data
 - Collect data from qPCR
 
+---
+#Differences in Olympia Oyster Populations at the Gene Expression Level
+
+As part of your experiments you are comparing how different populations will respond to stress to confirm your hypotheses that were generated as part of "Lab A".  This graph should ring a bell.
+
+![death](http://eagle.fish.washington.edu/cnidarian/skitch/course-fish310-2015_QP-lab-A-worksheet_md_at_master_·_sr320_course-fish310-2015_1AFD6852.png)
+
+Today what you will be doing is learning how to measure differences in gene expression. This is a _very valuable_ core technique in biology and works on the general principles of the Polymerase Chain Reaction. 
+
+Quantitative Polymerase Chain Reaction
+
+
+
+
 ##qPCR protocol
 
 |                     | Volume (ul) | Reactions (ul) X8 |
