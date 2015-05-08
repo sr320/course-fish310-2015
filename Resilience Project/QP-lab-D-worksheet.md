@@ -33,7 +33,14 @@ As part of your experiments you are comparing how different populations will res
 
 ![death](http://eagle.fish.washington.edu/cnidarian/skitch/course-fish310-2015_QP-lab-A-worksheet_md_at_master_·_sr320_course-fish310-2015_1AFD6852.png)
 
-Today what you will be doing is learning how to measure differences in gene expression. This is a _very valuable_ core technique in biology and works on the general principles of the Polymerase Chain Reaction. 
+Today what you will be doing is learning how to measure differences in gene expression. This is a _very valuable_ core technique in biology and works on the general principles of the Polymerase Chain Reaction. The polymerase chain reaction (PCR) is a technology used to amplify a single copy or a few copies of a piece of DNA  generating thousands to millions of copies of a sequence. 
+
+![PCR](http://eagle.fish.washington.edu/cnidarian/skitch/pcr_1AFD6978.png)
+ by Enzoklop
+ 
+ ---
+ 
+In our case we will be using PCR (a fancier version of what is shown above
 
 Quantitative Polymerase Chain Reaction
 
