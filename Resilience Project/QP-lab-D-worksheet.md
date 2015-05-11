@@ -65,7 +65,7 @@ Quantitative Polymerase Chain Reaction
 
 ##qPCR protocol
 
-You will be setting up your own PCR reactions with cDNA that was made from RNA isolated from the tissue samples you took last week. The recipe is below, with `Ssofast Evagreen MM` being a premix that contains nucleotides, buffer, DNA polymerase. The primers are specific to the gene you will be measuring (see PCR figure above). H20 is used to make the volume appropriate (think concentration). Below is the recipe for one reaction and for 8.
+You will be setting up your own PCR reactions with cDNA that was made from RNA isolated from the tissue samples you took last week. The recipe is below, with `Ssofast Evagreen MM` being a premix that contains nucleotides, buffer, DNA polymerase, and SybrGreen flourescent dye. The primers are specific to the gene you will be measuring (see PCR figure above). H20 is used to make the volume appropriate (think concentration). Below is the recipe for one reaction and for 8.
 
 |                     | Volume (ul) | Reactions (ul) X8 |
 |---------------------|-------------|-------------------|
