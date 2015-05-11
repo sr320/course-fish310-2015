@@ -58,12 +58,10 @@ _SybrGreen_
 _qPCR Results_
 ![curve](http://eagle.fish.washington.edu/cnidarian/skitch/quantitative_pcr_-_Google_Search_1B00E867.png)
 
-Quantitative Polymerase Chain Reaction
+_Tip_  You can use the following formula to convert Ct values.     
+Arbitrary expression value =10^(-(0.3012*Ct)+11.434)
 
-
-
-
-##qPCR protocol
+## Quantitative Polymerase Chain Reaction
 
 You will be setting up your own PCR reactions with cDNA that was made from RNA isolated from the tissue samples you took last week. The recipe is below, with `Ssofast Evagreen MM` being a premix that contains nucleotides, buffer, DNA polymerase, and SybrGreen flourescent dye. The primers are specific to the gene you will be measuring (see PCR figure above). H20 is used to make the volume appropriate (think concentration). Below is the recipe for one reaction and for 8.
 
