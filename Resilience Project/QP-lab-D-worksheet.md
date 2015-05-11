@@ -40,7 +40,23 @@ Today what you will be doing is learning how to measure differences in gene expr
  
  ---
  
-In our case we will be using PCR (a fancier version of what is shown above
+In our case we will be using PCR a fancier version of what is shown above in the sense that we are interested in quantifying the level of gene (mRNA) expression (so we have to make cDNA first) and a flourescent dye is added to the reaction so we can measure easily. 
+
+**Biology Refresher**
+![dogma](http://eagle.fish.washington.edu/cnidarian/skitch/transcription_and_translation_1B00E632.png)
+
+---
+_Reverse Transcription_
+![rev-tran](http://eagle.fish.washington.edu/cnidarian/skitch/cdna_-_Google_Search_1B00E717.png)
+
+---
+_SybrGreen_
+![sg](http://eagle.fish.washington.edu/cnidarian/skitch/quantitative_pcr_sybr_green_-_Google_Search_1B00E7D1.png)
+
+
+---
+_qPCR Results_
+![curve](http://eagle.fish.washington.edu/cnidarian/skitch/quantitative_pcr_-_Google_Search_1B00E867.png)
 
 Quantitative Polymerase Chain Reaction
 
@@ -128,24 +144,6 @@ Quantitative Polymerase Chain Reaction
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-####What does a standard curve tell you?
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-####What might you use the melt curve for?
 &nbsp;
 
 &nbsp;
