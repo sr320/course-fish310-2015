@@ -108,7 +108,7 @@ Date |	Lecture |	Readings | lab | week
 5/6	 | L12 - [Arthropoda](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec12.pdf)	 | Chapter 14 | [_Intro to Arthropoda_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Intro%20Arthropod%202015.md)
 5/8	 | L13 - [Arthropoda](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec13.pdf)		 | Chapter 14  
 5/11	 | L13 - [Arthropoda](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec13.pdf)		 | Chapter 14  | [_Quarter Project D_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-D-worksheet.md) | **seven**
-5/13	 | Arthropoda	 | Chapter 14  | [_Arthropod 2: Crustacean Development, Senses and More_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Crustacean%20SDT%202015.md)
+5/13	 | L14 - [Arthropoda](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec14.pdf)	 | Chapter 14  | [_Arthropod 2: Crustacean Development, Senses and More_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Crustacean%20SDT%202015.md)
 5/15	 | Crabs & DO - Dr. Froelich | 
 **5/17**    | FIELD TRIP | | Alki Beach	 
 5/18	 | Echinoderm	 |  | Echinoderm | **eight**
