@@ -4,8 +4,27 @@ FISH 310 Spring 2015
 
 #Introduction to Echinoderms
 
+Animals:
+
+- **LIVE** Cucumaria piperata
+- **LIVE** Other species of cucumbers (Parastichopus and ??)
+- **LIVE** Brittlestars
+
+Supplies:
+
+- Seastar keys
+- Dissecting scopes
+- Compound scopes
+- Stages of urchin development slides
+- Blastula
+- Gastrula
+- Pluteus    
+
+
+
 The echinoderms are an amazing group of marine invertebrates that tend 
 to have pentamerous symmetry. The language for describing the surfaces of an echinoderm different than that used for most animals; in echinoderms there is an ‘aboral’ and ‘oral’ surface that correspond to what we would normally think of as the dorsal and ventral surfaces. The surface with the mouth is called the oral surface, the other side is the aboral surface. 
+
 
 
 
@@ -192,3 +211,22 @@ to have pentamerous symmetry. The language for describing the surfaces of an ech
 - Sea urchin pluteus larva
 - Sea star brachiolaria larva
 - Seastar juvenile
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
