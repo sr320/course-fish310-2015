@@ -117,7 +117,11 @@ Date |	Lecture |	Readings | lab | week
 5/25	 | _Holiday_	  | | _no lab_ | **nine**
 5/27	 | Review	  | |  _no lab_ 
 5/29	 | Exam	2 |  
+<<<<<<< Updated upstream
 6/1	 | Conservation	 |  | _Lab Final Exam_  | **ten**
+=======
+6/1	 | Conservation	 |  | _Lab Final Exam_ | **ten**
+>>>>>>> Stashed changes
 6/3	 | Case Studies	  | | _QP Presentations_
 6/5	 | Review	  | 
 
