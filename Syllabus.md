@@ -111,14 +111,14 @@ Date |	Lecture |	Readings | lab | week
 5/13	 | L14 - [Arthropoda](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec14.pdf)	 | Chapter 14  | [_Arthropod 2: Crustacean Development, Senses and More_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Crustacean%20SDT%202015.md)
 5/15	 | Crabs & DO - Dr. Froelich | 
 **5/17**    | FIELD TRIP | | [_Alki Beach_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Alki%20Trip%202015.md)	 
-5/18	 | L14 - [Echinoderm](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec15.pdf)	 | Chapter 20 | [_Echinoderm_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Echinoderms%202015.md) | **eight**
-5/20	 | L14 - Echinoderm ([video](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=a2edccab-7c37-48b5-885e-8e6abec7725e))	 | Chapter 20 | [_Quarter Project E_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-E-worksheet.md)
-5/22	 | Potpourii	  | Chapter 20
+5/18	 | L15 - [Echinoderm](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec15.pdf)	 | Chapter 20 | [_Echinoderm_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Echinoderms%202015.md) | **eight**
+5/20	 | L15 - Echinoderm ([video](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=a2edccab-7c37-48b5-885e-8e6abec7725e))	 | Chapter 20 | [_Quarter Project E_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-E-worksheet.md)
+5/22	 | L16 - [Potpourii](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec16.pdf)  | Chapter 20
 5/25	 | _Holiday_	  | | _no lab_ | **nine**
 5/27	 | Review	  | |  _no lab_ 
 5/29	 | Exam	2 |  
-6/1	 | Hemichordates	 |  | _Lab Final Exam_  | **ten**
-6/3	 | Immune Response	  | | _QP Presentations_
+6/1	 | L17 - [Hemichordates](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec17.pdf)	 | Chapter 21 and 23  | _Lab Final Exam_  | **ten**
+6/3	 | L18 - [Immune Response](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec18.pdf)	  | | _QP Presentations_
 6/5	 | Review	  | 
 
 
