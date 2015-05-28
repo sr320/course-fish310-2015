@@ -112,17 +112,13 @@ Date |	Lecture |	Readings | lab | week
 5/15	 | Crabs & DO - Dr. Froelich | 
 **5/17**    | FIELD TRIP | | [_Alki Beach_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Alki%20Trip%202015.md)	 
 5/18	 | L14 - [Echinoderm](https://github.com/sr320/course-fish310-2015/raw/master/Lectures/Lec15.pdf)	 | Chapter 20 | [_Echinoderm_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Lab%20Worksheets%20MD/Echinoderms%202015.md) | **eight**
-5/20	 | Echinoderm	 | Chapter 20 | [_Quarter Project E_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-E-worksheet.md)
-5/22	 | Echinoderm	  | Chapter 20
+5/20	 | L14 - Echinoderm ([video](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=a2edccab-7c37-48b5-885e-8e6abec7725e))	 | Chapter 20 | [_Quarter Project E_](https://gitprint.com/sr320/course-fish310-2015/blob/master/Resilience%20Project/QP-lab-E-worksheet.md)
+5/22	 | Potpourii	  | Chapter 20
 5/25	 | _Holiday_	  | | _no lab_ | **nine**
 5/27	 | Review	  | |  _no lab_ 
 5/29	 | Exam	2 |  
-<<<<<<< Updated upstream
-6/1	 | Conservation	 |  | _Lab Final Exam_  | **ten**
-=======
-6/1	 | Conservation	 |  | _Lab Final Exam_ | **ten**
->>>>>>> Stashed changes
-6/3	 | Case Studies	  | | _QP Presentations_
+6/1	 | Hemichordates	 |  | _Lab Final Exam_  | **ten**
+6/3	 | Immune Response	  | | _QP Presentations_
 6/5	 | Review	  | 
 
 
